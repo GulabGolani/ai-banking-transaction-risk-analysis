@@ -1,0 +1,1201 @@
+transaction_id,customer_id,transaction_date,amount_inr,channel,city,transaction_hour,customer_tenure_days,risk_score,risk_reasons,priority
+TXN01156,CUST1163,2026-10-21T14:36:00,178799.41,UPI,Chennai,1,643,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00810,CUST1036,2026-10-12T00:30:00,178603.9,UPI,Mumbai,3,921,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00154,CUST1201,2026-10-23T07:10:00,177195.33,UPI,Mumbai,4,518,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01173,CUST1215,2026-10-11T04:33:00,175509.57,Wallet,Delhi,1,1859,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00128,CUST1073,2026-10-02T06:33:00,174569.56,UPI,Nagpur,3,1286,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00310,CUST1026,2026-10-20T16:51:00,174399.56,Wallet,Nagpur,2,621,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00907,CUST1103,2026-10-17T01:16:00,170965.16,UPI,Delhi,2,1091,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00966,CUST1230,2026-10-30T11:16:00,170883.73,Wallet,Chennai,0,1228,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00500,CUST1104,2026-10-02T05:43:00,162887.39,Wallet,Nagpur,1,467,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00297,CUST1076,2026-10-04T01:37:00,162102.18,Wallet,Nagpur,1,190,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00622,CUST1092,2026-10-05T00:04:00,160554.94,Wallet,Pune,2,1250,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00137,CUST1154,2026-10-15T04:37:00,160204.88,Wallet,Hyderabad,4,1721,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00092,CUST1103,2026-10-12T12:57:00,156668.41,Wallet,Nagpur,3,791,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01015,CUST1024,2026-10-26T20:20:00,156196.06,UPI,Mumbai,4,1670,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00424,CUST1067,2026-10-02T09:23:00,147903.93,Wallet,Hyderabad,0,384,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00835,CUST1184,2026-10-25T00:04:00,147609.69,UPI,Mumbai,4,1794,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00234,CUST1059,2026-10-16T09:20:00,145367.09,Wallet,Chennai,0,1704,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00409,CUST1237,2026-10-10T16:57:00,143481.84,Wallet,Mumbai,0,1545,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01116,CUST1092,2026-10-26T23:44:00,140097.92,UPI,Mumbai,3,2213,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00455,CUST1169,2026-10-04T13:51:00,128385.38,Wallet,Mumbai,2,645,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00957,CUST1162,2026-10-17T03:37:00,125640.35,UPI,Bengaluru,4,1230,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01200,CUST1098,2026-10-11T06:55:00,125573.14,Wallet,Hyderabad,1,254,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00145,CUST1073,2026-10-11T15:33:00,125266.63,UPI,Hyderabad,1,464,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00049,CUST1170,2026-10-25T21:30:00,124804.42,Wallet,Mumbai,0,495,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01159,CUST1143,2026-10-24T13:41:00,124482.39,Wallet,Nagpur,4,2248,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00030,CUST1077,2026-10-26T17:21:00,119905.08,UPI,Pune,2,2290,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00924,CUST1078,2026-10-18T17:55:00,116614.14,Wallet,Bengaluru,2,145,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01141,CUST1048,2026-10-04T15:40:00,115825.61,UPI,Nagpur,1,793,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00913,CUST1155,2026-10-18T08:36:00,113330.0,Wallet,Chennai,3,2034,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00242,CUST1232,2026-10-07T15:27:00,107333.17,Wallet,Mumbai,4,948,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00364,CUST1134,2026-10-05T13:10:00,105066.6,Wallet,Delhi,4,2323,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00914,CUST1195,2026-10-29T10:01:00,104330.04,UPI,Delhi,0,1390,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00343,CUST1161,2026-10-08T16:15:00,104289.1,Wallet,Mumbai,3,1210,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01104,CUST1151,2026-10-05T14:38:00,101105.22,Wallet,Chennai,2,495,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00189,CUST1218,2026-10-30T20:03:00,99008.3,Wallet,Chennai,3,1106,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01024,CUST1083,2026-10-24T08:08:00,96630.5,Wallet,Bengaluru,1,2421,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00051,CUST1130,2026-10-28T16:47:00,95437.91,Wallet,Delhi,2,2372,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00112,CUST1092,2026-10-04T09:18:00,95314.82,UPI,Delhi,4,2312,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00886,CUST1145,2026-10-01T23:10:00,95010.69,UPI,Hyderabad,0,616,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00185,CUST1049,2026-10-06T00:50:00,89083.82,Wallet,Pune,3,1835,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00919,CUST1147,2026-10-10T13:28:00,88841.54,Wallet,Hyderabad,0,263,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00337,CUST1044,2026-10-08T21:54:00,87708.8,UPI,Delhi,2,2461,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00617,CUST1187,2026-10-03T20:24:00,83906.91,Wallet,Nagpur,3,1183,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00785,CUST1117,2026-10-29T01:31:00,81872.98,Wallet,Nagpur,3,1949,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00859,CUST1125,2026-10-31T23:58:00,76910.43,Wallet,Hyderabad,2,1652,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00037,CUST1032,2026-10-01T13:21:00,76003.56,UPI,Chennai,0,1089,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00677,CUST1078,2026-10-16T16:53:00,72895.03,UPI,Nagpur,1,48,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00077,CUST1031,2026-10-22T14:50:00,72240.58,UPI,Nagpur,4,2051,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00922,CUST1061,2026-10-06T22:55:00,68542.88,UPI,Nagpur,4,1567,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00512,CUST1078,2026-10-18T00:57:00,66852.36,UPI,Delhi,0,1009,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00676,CUST1029,2026-10-21T05:53:00,65725.43,Wallet,Mumbai,0,561,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN01051,CUST1199,2026-10-26T13:21:00,63680.04,Wallet,Hyderabad,4,522,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00768,CUST1044,2026-10-11T16:07:00,61959.38,Wallet,Delhi,1,2493,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00597,CUST1009,2026-10-01T17:24:00,60673.41,Wallet,Pune,1,830,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00456,CUST1020,2026-10-31T20:41:00,58493.5,Wallet,Pune,2,1513,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00418,CUST1183,2026-10-08T06:37:00,52598.99,Wallet,Pune,2,2090,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00927,CUST1232,2026-10-05T19:22:00,52031.98,UPI,Delhi,0,932,75,"High amount (>= INR 50,000); Overnight transaction (00:00–04:59); UPI / Wallet channel",High
+TXN00852,CUST1117,2026-10-03T12:56:00,749.32,UPI,Chennai,0,25,55,Overnight transaction (00:00–04:59); New customer (<30 days); UPI / Wallet channel,Medium
+TXN00010,CUST1117,2026-10-22T20:38:00,3014.0,NetBanking,Nagpur,3,28,45,Overnight transaction (00:00–04:59); New customer (<30 days),Medium
+TXN00812,CUST1038,2026-10-24T03:06:00,2396.64,Card,Delhi,1,14,45,Overnight transaction (00:00–04:59); New customer (<30 days),Medium
+TXN00659,CUST1107,2026-10-24T02:39:00,48345.01,UPI,Nagpur,1,715,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00075,CUST1012,2026-10-26T10:03:00,45733.03,UPI,Delhi,3,729,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00976,CUST1233,2026-10-12T08:25:00,45042.45,UPI,Hyderabad,1,1437,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01086,CUST1107,2026-10-03T00:25:00,29358.72,Wallet,Mumbai,2,1521,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00374,CUST1226,2026-10-30T01:03:00,21411.74,UPI,Pune,2,1870,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01063,CUST1155,2026-10-10T05:10:00,15923.02,UPI,Nagpur,1,877,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00816,CUST1229,2026-10-03T10:49:00,14530.44,UPI,Hyderabad,3,2123,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00930,CUST1107,2026-10-15T21:30:00,13103.68,UPI,Bengaluru,2,1406,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01110,CUST1115,2026-10-29T03:30:00,10403.83,UPI,Delhi,2,785,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00630,CUST1203,2026-10-05T18:54:00,9384.18,UPI,Bengaluru,3,1990,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00828,CUST1108,2026-10-02T04:59:00,8223.97,UPI,Hyderabad,4,509,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00665,CUST1226,2026-10-21T11:02:00,7319.51,Wallet,Nagpur,2,537,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01176,CUST1019,2026-10-04T06:34:00,6532.98,UPI,Chennai,0,686,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00590,CUST1132,2026-10-17T22:15:00,6367.0,Wallet,Bengaluru,0,188,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01092,CUST1009,2026-10-04T14:47:00,6301.72,UPI,Hyderabad,1,620,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00394,CUST1224,2026-10-04T12:49:00,5276.63,Wallet,Delhi,2,1211,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00293,CUST1115,2026-10-06T23:01:00,5105.56,UPI,Delhi,3,1014,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00052,CUST1209,2026-10-27T03:37:00,4779.2,Wallet,Mumbai,2,139,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00430,CUST1190,2026-10-04T20:08:00,4480.35,UPI,Chennai,2,1323,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00340,CUST1148,2026-10-29T00:30:00,4112.1,UPI,Pune,1,2233,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00327,CUST1107,2026-10-17T16:49:00,4080.45,UPI,Mumbai,3,1618,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00723,CUST1207,2026-10-06T17:31:00,3963.63,UPI,Hyderabad,4,1640,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01193,CUST1030,2026-10-18T17:39:00,3742.36,UPI,Delhi,0,1205,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00960,CUST1109,2026-10-13T00:25:00,3688.74,Wallet,Bengaluru,2,1144,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01082,CUST1025,2026-10-26T03:17:00,3663.6,UPI,Mumbai,3,135,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00925,CUST1168,2026-10-04T09:31:00,3647.58,UPI,Pune,4,421,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00426,CUST1125,2026-10-04T20:12:00,3396.71,UPI,Delhi,0,2478,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01177,CUST1002,2026-10-13T18:30:00,3311.79,UPI,Delhi,2,768,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00566,CUST1156,2026-10-30T01:08:00,3304.57,UPI,Nagpur,0,918,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00727,CUST1162,2026-10-02T19:29:00,3286.92,UPI,Mumbai,2,1098,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01103,CUST1155,2026-10-02T11:35:00,3234.67,UPI,Nagpur,0,1772,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00823,CUST1080,2026-10-19T01:10:00,3211.83,UPI,Pune,1,2026,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00281,CUST1218,2026-10-05T23:16:00,3210.88,Wallet,Nagpur,1,1673,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00650,CUST1068,2026-10-08T15:49:00,3121.14,UPI,Pune,4,1892,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00397,CUST1163,2026-10-25T18:32:00,2814.97,UPI,Pune,2,1475,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00749,CUST1025,2026-10-03T04:31:00,2720.16,UPI,Chennai,2,2238,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00581,CUST1174,2026-10-01T10:43:00,2720.1,UPI,Mumbai,4,404,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00556,CUST1170,2026-10-06T23:35:00,2619.03,UPI,Nagpur,3,834,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00373,CUST1009,2026-10-18T03:45:00,2560.94,UPI,Chennai,1,1855,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01119,CUST1192,2026-10-24T11:08:00,2545.16,UPI,Nagpur,4,982,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00210,CUST1015,2026-10-13T08:29:00,2504.33,UPI,Bengaluru,2,448,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01087,CUST1138,2026-10-17T23:14:00,2402.08,UPI,Pune,0,1343,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00524,CUST1005,2026-10-30T16:31:00,2337.34,UPI,Nagpur,4,1051,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00507,CUST1095,2026-10-10T16:01:00,2312.98,UPI,Nagpur,1,1561,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00376,CUST1086,2026-10-01T10:30:00,2302.43,UPI,Nagpur,3,1337,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01003,CUST1105,2026-10-31T04:03:00,2246.61,UPI,Mumbai,1,603,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00254,CUST1021,2026-10-02T02:10:00,2214.45,Wallet,Nagpur,1,1120,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00865,CUST1193,2026-10-12T11:32:00,2191.55,UPI,Pune,2,1872,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00319,CUST1172,2026-10-04T10:59:00,2169.9,UPI,Bengaluru,4,1136,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00592,CUST1035,2026-10-25T20:12:00,2066.45,UPI,Bengaluru,2,41,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01084,CUST1171,2026-10-25T19:28:00,2040.23,UPI,Mumbai,4,1436,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00840,CUST1115,2026-10-08T14:58:00,2030.55,UPI,Hyderabad,2,426,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00362,CUST1024,2026-10-25T06:25:00,1955.78,UPI,Nagpur,0,868,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00035,CUST1030,2026-10-28T15:34:00,1929.3,UPI,Chennai,0,89,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00802,CUST1054,2026-10-27T13:00:00,1927.83,UPI,Mumbai,2,900,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00942,CUST1184,2026-10-11T07:04:00,1918.14,UPI,Pune,2,1391,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00559,CUST1075,2026-10-15T10:46:00,1907.33,UPI,Nagpur,1,50,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00483,CUST1125,2026-10-13T12:41:00,1893.65,UPI,Chennai,0,838,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00414,CUST1033,2026-10-18T18:47:00,1833.86,UPI,Bengaluru,1,2465,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00520,CUST1063,2026-10-22T04:53:00,1832.71,UPI,Mumbai,0,1688,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00042,CUST1045,2026-10-29T22:10:00,1774.8,Wallet,Nagpur,2,1053,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00295,CUST1056,2026-10-20T14:13:00,1755.9,UPI,Chennai,0,2325,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00628,CUST1233,2026-10-05T18:13:00,1705.92,UPI,Nagpur,2,1269,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01046,CUST1019,2026-10-06T03:13:00,1699.59,UPI,Hyderabad,4,730,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00540,CUST1179,2026-10-20T03:37:00,1678.23,Wallet,Bengaluru,1,582,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00635,CUST1243,2026-10-25T08:35:00,1663.29,UPI,Chennai,1,740,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00514,CUST1161,2026-10-19T22:03:00,1649.55,Wallet,Delhi,2,374,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00353,CUST1154,2026-10-04T20:19:00,1587.69,UPI,Nagpur,4,1478,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00479,CUST1218,2026-10-25T20:01:00,1556.02,Wallet,Chennai,1,1245,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01055,CUST1140,2026-10-16T12:20:00,1555.66,UPI,Nagpur,3,784,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01168,CUST1165,2026-10-08T02:55:00,1535.71,UPI,Hyderabad,3,2136,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00743,CUST1004,2026-10-13T08:38:00,1529.53,UPI,Pune,3,1785,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00674,CUST1069,2026-10-29T22:08:00,1514.67,UPI,Mumbai,1,2404,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00898,CUST1077,2026-10-20T01:33:00,1502.13,UPI,Nagpur,0,2130,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00553,CUST1161,2026-10-01T17:32:00,1495.4,UPI,Pune,1,1779,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00452,CUST1207,2026-10-08T17:52:00,1476.03,UPI,Bengaluru,0,1272,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01016,CUST1111,2026-10-27T00:26:00,1462.79,UPI,Pune,1,1345,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00198,CUST1055,2026-10-21T13:36:00,1427.78,UPI,Pune,1,1978,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00312,CUST1032,2026-10-05T08:55:00,1411.55,UPI,Nagpur,4,2031,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00222,CUST1012,2026-10-04T13:48:00,1383.87,UPI,Mumbai,4,2324,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00196,CUST1071,2026-10-06T23:17:00,1370.32,UPI,Pune,3,298,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01009,CUST1174,2026-10-19T13:32:00,1332.87,UPI,Mumbai,3,2482,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01078,CUST1013,2026-10-27T07:42:00,1318.51,UPI,Hyderabad,2,1260,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01163,CUST1068,2026-10-10T12:19:00,1296.18,UPI,Hyderabad,0,735,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00606,CUST1110,2026-10-17T05:25:00,1234.18,UPI,Hyderabad,2,1623,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00691,CUST1004,2026-10-12T01:36:00,1216.27,Wallet,Mumbai,4,367,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01113,CUST1022,2026-10-20T13:48:00,1210.11,UPI,Nagpur,4,1266,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00138,CUST1139,2026-10-15T02:06:00,1170.81,UPI,Chennai,3,2140,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00465,CUST1215,2026-10-29T07:56:00,1162.08,UPI,Hyderabad,3,947,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00804,CUST1031,2026-10-10T23:07:00,1075.96,UPI,Nagpur,3,1035,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00562,CUST1195,2026-10-29T09:31:00,1075.16,UPI,Hyderabad,2,836,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00220,CUST1045,2026-10-10T22:22:00,1056.19,UPI,Hyderabad,4,448,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00685,CUST1127,2026-10-20T18:21:00,1046.23,Wallet,Pune,1,2224,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01005,CUST1199,2026-10-02T15:01:00,1030.6,UPI,Hyderabad,4,320,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00503,CUST1203,2026-10-05T00:14:00,1012.15,UPI,Hyderabad,1,2078,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01106,CUST1231,2026-10-01T23:21:00,1009.1,UPI,Nagpur,4,1696,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00728,CUST1026,2026-10-10T14:22:00,934.67,UPI,Delhi,3,929,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00857,CUST1115,2026-10-30T23:56:00,933.64,UPI,Delhi,3,797,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00358,CUST1052,2026-10-14T16:09:00,844.76,UPI,Mumbai,3,127,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00956,CUST1097,2026-10-25T07:20:00,843.33,Wallet,Hyderabad,3,2212,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00103,CUST1124,2026-10-17T00:38:00,830.33,UPI,Nagpur,2,1461,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00007,CUST1032,2026-10-11T05:39:00,786.51,UPI,Hyderabad,1,1162,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00915,CUST1054,2026-10-12T03:49:00,785.44,UPI,Bengaluru,4,1651,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00790,CUST1200,2026-10-26T18:32:00,706.34,UPI,Bengaluru,3,84,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00928,CUST1190,2026-10-29T05:46:00,679.76,UPI,Chennai,1,1133,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00313,CUST1083,2026-10-10T00:28:00,657.59,Wallet,Chennai,4,2066,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00130,CUST1112,2026-10-07T10:01:00,646.95,UPI,Pune,1,967,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00322,CUST1082,2026-10-14T16:04:00,634.79,UPI,Mumbai,1,1028,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00763,CUST1101,2026-10-28T19:09:00,624.02,UPI,Delhi,2,1275,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00492,CUST1022,2026-10-21T22:27:00,601.34,Wallet,Mumbai,2,190,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00448,CUST1099,2026-10-18T11:06:00,561.16,UPI,Chennai,3,1376,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00917,CUST1232,2026-10-10T23:49:00,560.31,UPI,Hyderabad,0,1864,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01117,CUST1007,2026-10-03T02:38:00,501.57,UPI,Nagpur,3,430,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00760,CUST1182,2026-10-28T12:26:00,493.5,UPI,Hyderabad,0,2390,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00593,CUST1212,2026-10-18T22:53:00,485.47,UPI,Nagpur,4,240,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00365,CUST1113,2026-10-16T21:15:00,462.06,UPI,Chennai,2,203,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00961,CUST1102,2026-10-10T07:06:00,421.41,UPI,Hyderabad,0,1546,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00693,CUST1063,2026-10-27T03:04:00,367.37,Wallet,Nagpur,2,1059,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN01085,CUST1182,2026-10-02T13:59:00,134.18,UPI,Delhi,2,95,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00263,CUST1105,2026-10-23T18:02:00,114.43,UPI,Hyderabad,2,2305,35,Overnight transaction (00:00–04:59); UPI / Wallet channel,Medium
+TXN00764,CUST1195,2026-10-05T00:32:00,4837.03,UPI,Chennai,6,28,30,New customer (<30 days); UPI / Wallet channel,Medium
+TXN00993,CUST1032,2026-10-19T12:05:00,1627.51,UPI,Chennai,8,21,30,New customer (<30 days); UPI / Wallet channel,Medium
+TXN00241,CUST1115,2026-10-18T23:19:00,8540.74,Card,Mumbai,1,1271,25,Overnight transaction (00:00–04:59),Low
+TXN00468,CUST1046,2026-10-14T06:52:00,6161.48,Card,Nagpur,1,2220,25,Overnight transaction (00:00–04:59),Low
+TXN00700,CUST1023,2026-10-29T04:59:00,5931.24,NetBanking,Delhi,4,1346,25,Overnight transaction (00:00–04:59),Low
+TXN00824,CUST1161,2026-10-30T02:19:00,5141.06,Card,Hyderabad,3,1122,25,Overnight transaction (00:00–04:59),Low
+TXN01026,CUST1205,2026-10-15T13:40:00,4944.02,Card,Delhi,1,2278,25,Overnight transaction (00:00–04:59),Low
+TXN01072,CUST1175,2026-10-30T09:53:00,4444.87,NetBanking,Chennai,2,399,25,Overnight transaction (00:00–04:59),Low
+TXN00087,CUST1175,2026-10-19T04:50:00,4426.63,Card,Pune,2,1478,25,Overnight transaction (00:00–04:59),Low
+TXN01196,CUST1095,2026-10-27T00:20:00,4224.42,Card,Chennai,3,785,25,Overnight transaction (00:00–04:59),Low
+TXN00425,CUST1189,2026-10-18T09:31:00,4207.18,Card,Mumbai,2,864,25,Overnight transaction (00:00–04:59),Low
+TXN00339,CUST1111,2026-10-12T20:41:00,4185.45,Card,Delhi,2,579,25,Overnight transaction (00:00–04:59),Low
+TXN00730,CUST1037,2026-10-07T19:08:00,4066.32,NetBanking,Nagpur,4,1914,25,Overnight transaction (00:00–04:59),Low
+TXN00299,CUST1186,2026-10-05T23:57:00,3930.17,Card,Chennai,1,2461,25,Overnight transaction (00:00–04:59),Low
+TXN00892,CUST1130,2026-10-21T13:13:00,3801.96,Card,Chennai,4,889,25,Overnight transaction (00:00–04:59),Low
+TXN00096,CUST1200,2026-10-31T16:47:00,3670.32,Card,Chennai,3,2472,25,Overnight transaction (00:00–04:59),Low
+TXN01001,CUST1017,2026-10-09T14:21:00,3383.75,Card,Nagpur,2,2449,25,Overnight transaction (00:00–04:59),Low
+TXN00883,CUST1163,2026-10-18T23:37:00,3236.58,NetBanking,Pune,1,2002,25,Overnight transaction (00:00–04:59),Low
+TXN00015,CUST1166,2026-10-13T22:57:00,3045.55,NetBanking,Hyderabad,3,2490,25,Overnight transaction (00:00–04:59),Low
+TXN00733,CUST1129,2026-10-20T03:44:00,3035.89,NetBanking,Nagpur,1,1228,25,Overnight transaction (00:00–04:59),Low
+TXN00091,CUST1013,2026-10-18T12:34:00,2839.09,NetBanking,Mumbai,1,2056,25,Overnight transaction (00:00–04:59),Low
+TXN00607,CUST1128,2026-10-28T03:19:00,2770.33,NetBanking,Chennai,1,1036,25,Overnight transaction (00:00–04:59),Low
+TXN00271,CUST1177,2026-10-24T06:57:00,2716.18,NetBanking,Chennai,4,431,25,Overnight transaction (00:00–04:59),Low
+TXN00446,CUST1220,2026-10-15T08:10:00,2662.49,Card,Pune,1,2343,25,Overnight transaction (00:00–04:59),Low
+TXN00627,CUST1130,2026-10-27T02:18:00,2626.96,NetBanking,Hyderabad,1,1324,25,Overnight transaction (00:00–04:59),Low
+TXN00118,CUST1159,2026-10-10T04:29:00,2622.95,NetBanking,Hyderabad,2,1796,25,Overnight transaction (00:00–04:59),Low
+TXN00614,CUST1005,2026-10-22T01:13:00,2532.9,NetBanking,Chennai,4,917,25,Overnight transaction (00:00–04:59),Low
+TXN00488,CUST1118,2026-10-25T06:22:00,2461.67,NetBanking,Hyderabad,2,445,25,Overnight transaction (00:00–04:59),Low
+TXN00678,CUST1154,2026-10-30T00:08:00,2441.7,Card,Mumbai,4,402,25,Overnight transaction (00:00–04:59),Low
+TXN00772,CUST1057,2026-10-29T12:44:00,2384.91,Card,Bengaluru,4,156,25,Overnight transaction (00:00–04:59),Low
+TXN00335,CUST1159,2026-10-22T00:51:00,2375.95,Card,Hyderabad,1,1443,25,Overnight transaction (00:00–04:59),Low
+TXN00006,CUST1102,2026-10-11T02:24:00,2371.93,Card,Nagpur,1,1710,25,Overnight transaction (00:00–04:59),Low
+TXN00393,CUST1110,2026-10-23T02:22:00,2206.76,Card,Pune,2,1232,25,Overnight transaction (00:00–04:59),Low
+TXN00848,CUST1053,2026-10-17T21:23:00,2168.76,Card,Mumbai,4,916,25,Overnight transaction (00:00–04:59),Low
+TXN00063,CUST1116,2026-10-23T13:26:00,2166.37,Card,Hyderabad,3,1195,25,Overnight transaction (00:00–04:59),Low
+TXN00471,CUST1248,2026-10-08T06:09:00,2161.31,NetBanking,Pune,0,176,25,Overnight transaction (00:00–04:59),Low
+TXN00756,CUST1156,2026-10-21T07:32:00,2153.38,NetBanking,Hyderabad,1,966,25,Overnight transaction (00:00–04:59),Low
+TXN00767,CUST1133,2026-10-26T10:05:00,2111.09,Card,Hyderabad,4,2493,25,Overnight transaction (00:00–04:59),Low
+TXN00570,CUST1203,2026-10-29T10:00:00,2035.26,NetBanking,Hyderabad,2,2330,25,Overnight transaction (00:00–04:59),Low
+TXN00197,CUST1233,2026-10-20T14:41:00,2006.42,Card,Bengaluru,0,2195,25,Overnight transaction (00:00–04:59),Low
+TXN00774,CUST1223,2026-10-04T22:48:00,1966.31,Card,Chennai,1,72,25,Overnight transaction (00:00–04:59),Low
+TXN00720,CUST1010,2026-10-26T11:14:00,1954.64,NetBanking,Pune,2,790,25,Overnight transaction (00:00–04:59),Low
+TXN00033,CUST1223,2026-10-15T13:20:00,1910.9,NetBanking,Nagpur,2,566,25,Overnight transaction (00:00–04:59),Low
+TXN00980,CUST1132,2026-10-12T05:42:00,1751.47,Card,Pune,4,290,25,Overnight transaction (00:00–04:59),Low
+TXN00059,CUST1050,2026-10-16T14:27:00,1736.96,Card,Bengaluru,1,97,25,Overnight transaction (00:00–04:59),Low
+TXN01098,CUST1230,2026-10-11T13:46:00,1706.63,Card,Bengaluru,1,2329,25,Overnight transaction (00:00–04:59),Low
+TXN00164,CUST1131,2026-10-23T18:56:00,1693.79,NetBanking,Hyderabad,3,409,25,Overnight transaction (00:00–04:59),Low
+TXN00923,CUST1164,2026-10-19T05:52:00,1682.54,Card,Hyderabad,0,1120,25,Overnight transaction (00:00–04:59),Low
+TXN00987,CUST1149,2026-10-02T06:30:00,1681.9,Card,Chennai,2,46,25,Overnight transaction (00:00–04:59),Low
+TXN00171,CUST1238,2026-10-12T13:12:00,1644.87,Card,Chennai,4,2087,25,Overnight transaction (00:00–04:59),Low
+TXN00217,CUST1161,2026-10-27T00:50:00,1620.39,NetBanking,Delhi,0,1936,25,Overnight transaction (00:00–04:59),Low
+TXN00161,CUST1219,2026-10-04T06:17:00,1617.95,NetBanking,Bengaluru,3,761,25,Overnight transaction (00:00–04:59),Low
+TXN00329,CUST1103,2026-10-05T17:51:00,1578.55,Card,Bengaluru,4,777,25,Overnight transaction (00:00–04:59),Low
+TXN00104,CUST1002,2026-10-11T12:06:00,1535.16,Card,Chennai,2,2294,25,Overnight transaction (00:00–04:59),Low
+TXN00494,CUST1025,2026-10-09T01:14:00,1529.52,Card,Pune,1,893,25,Overnight transaction (00:00–04:59),Low
+TXN00144,CUST1143,2026-10-28T19:35:00,1522.7,Card,Hyderabad,0,2482,25,Overnight transaction (00:00–04:59),Low
+TXN00555,CUST1067,2026-10-21T04:18:00,1469.79,Card,Delhi,3,2029,25,Overnight transaction (00:00–04:59),Low
+TXN01199,CUST1201,2026-10-24T14:02:00,1409.25,Card,Nagpur,3,1666,25,Overnight transaction (00:00–04:59),Low
+TXN00149,CUST1101,2026-10-24T22:31:00,1363.93,Card,Nagpur,0,1075,25,Overnight transaction (00:00–04:59),Low
+TXN00754,CUST1240,2026-10-18T06:09:00,1349.55,Card,Hyderabad,3,2183,25,Overnight transaction (00:00–04:59),Low
+TXN00451,CUST1195,2026-10-11T05:24:00,1271.48,Card,Chennai,0,444,25,Overnight transaction (00:00–04:59),Low
+TXN00357,CUST1122,2026-10-09T09:26:00,1264.3,NetBanking,Mumbai,4,1726,25,Overnight transaction (00:00–04:59),Low
+TXN00408,CUST1053,2026-10-10T12:52:00,1243.3,Card,Delhi,4,2430,25,Overnight transaction (00:00–04:59),Low
+TXN00039,CUST1032,2026-10-18T14:03:00,1211.11,Card,Nagpur,0,2066,25,Overnight transaction (00:00–04:59),Low
+TXN00769,CUST1199,2026-10-25T06:56:00,1200.89,Card,Pune,0,2199,25,Overnight transaction (00:00–04:59),Low
+TXN00036,CUST1070,2026-10-10T14:52:00,1158.79,NetBanking,Bengaluru,3,1502,25,Overnight transaction (00:00–04:59),Low
+TXN00999,CUST1107,2026-10-19T17:54:00,1155.37,Card,Mumbai,1,1381,25,Overnight transaction (00:00–04:59),Low
+TXN00745,CUST1246,2026-10-22T01:29:00,1145.87,Card,Hyderabad,3,1396,25,Overnight transaction (00:00–04:59),Low
+TXN00258,CUST1031,2026-10-11T18:50:00,1122.19,NetBanking,Chennai,4,1548,25,Overnight transaction (00:00–04:59),Low
+TXN00963,CUST1088,2026-10-24T10:21:00,1070.86,Card,Hyderabad,2,1270,25,Overnight transaction (00:00–04:59),Low
+TXN00257,CUST1134,2026-10-25T16:30:00,970.11,NetBanking,Hyderabad,3,659,25,Overnight transaction (00:00–04:59),Low
+TXN01070,CUST1094,2026-10-25T06:25:00,946.93,Card,Delhi,3,1251,25,Overnight transaction (00:00–04:59),Low
+TXN00616,CUST1049,2026-10-28T23:18:00,946.32,NetBanking,Delhi,0,2477,25,Overnight transaction (00:00–04:59),Low
+TXN00166,CUST1096,2026-10-09T04:49:00,934.5,NetBanking,Bengaluru,4,310,25,Overnight transaction (00:00–04:59),Low
+TXN00550,CUST1042,2026-10-29T09:32:00,927.17,NetBanking,Nagpur,4,1371,25,Overnight transaction (00:00–04:59),Low
+TXN00742,CUST1131,2026-10-27T15:50:00,909.72,Card,Delhi,1,526,25,Overnight transaction (00:00–04:59),Low
+TXN01180,CUST1130,2026-10-19T01:45:00,899.73,NetBanking,Pune,0,41,25,Overnight transaction (00:00–04:59),Low
+TXN00759,CUST1211,2026-10-27T02:58:00,882.96,Card,Delhi,3,49,25,Overnight transaction (00:00–04:59),Low
+TXN00432,CUST1222,2026-10-23T06:27:00,872.08,NetBanking,Nagpur,1,1582,25,Overnight transaction (00:00–04:59),Low
+TXN00389,CUST1042,2026-10-10T09:40:00,797.18,Card,Mumbai,3,1400,25,Overnight transaction (00:00–04:59),Low
+TXN00971,CUST1186,2026-10-30T16:13:00,767.83,Card,Mumbai,1,1288,25,Overnight transaction (00:00–04:59),Low
+TXN00262,CUST1234,2026-10-14T12:52:00,748.92,Card,Pune,4,1249,25,Overnight transaction (00:00–04:59),Low
+TXN00079,CUST1245,2026-10-16T18:55:00,735.59,Card,Delhi,0,1311,25,Overnight transaction (00:00–04:59),Low
+TXN00794,CUST1082,2026-10-17T08:49:00,731.88,Card,Hyderabad,0,2434,25,Overnight transaction (00:00–04:59),Low
+TXN01038,CUST1097,2026-10-21T19:10:00,730.35,Card,Nagpur,3,627,25,Overnight transaction (00:00–04:59),Low
+TXN00668,CUST1144,2026-10-07T05:00:00,723.25,NetBanking,Delhi,2,632,25,Overnight transaction (00:00–04:59),Low
+TXN00484,CUST1166,2026-10-13T17:17:00,695.42,NetBanking,Hyderabad,0,1285,25,Overnight transaction (00:00–04:59),Low
+TXN01000,CUST1217,2026-10-08T00:46:00,673.78,Card,Nagpur,1,724,25,Overnight transaction (00:00–04:59),Low
+TXN00160,CUST1220,2026-10-04T10:21:00,660.43,Card,Mumbai,1,2398,25,Overnight transaction (00:00–04:59),Low
+TXN00080,CUST1102,2026-10-06T08:48:00,641.31,NetBanking,Mumbai,1,115,25,Overnight transaction (00:00–04:59),Low
+TXN00572,CUST1243,2026-10-19T07:07:00,594.41,Card,Pune,2,885,25,Overnight transaction (00:00–04:59),Low
+TXN01149,CUST1117,2026-10-12T06:59:00,578.74,Card,Delhi,0,1279,25,Overnight transaction (00:00–04:59),Low
+TXN00317,CUST1065,2026-10-24T09:54:00,477.47,NetBanking,Delhi,1,1955,25,Overnight transaction (00:00–04:59),Low
+TXN00882,CUST1233,2026-10-17T11:26:00,473.29,Card,Bengaluru,4,142,25,Overnight transaction (00:00–04:59),Low
+TXN00369,CUST1097,2026-10-29T06:25:00,435.01,NetBanking,Delhi,3,2158,25,Overnight transaction (00:00–04:59),Low
+TXN00099,CUST1146,2026-10-01T10:20:00,399.74,Card,Bengaluru,4,2489,25,Overnight transaction (00:00–04:59),Low
+TXN00100,CUST1101,2026-10-21T18:37:00,358.59,Card,Nagpur,2,2110,25,Overnight transaction (00:00–04:59),Low
+TXN00748,CUST1247,2026-10-17T02:14:00,334.24,NetBanking,Chennai,1,1385,25,Overnight transaction (00:00–04:59),Low
+TXN00375,CUST1248,2026-10-17T07:54:00,320.8,Card,Pune,3,1715,25,Overnight transaction (00:00–04:59),Low
+TXN01032,CUST1151,2026-10-29T03:00:00,282.92,Card,Chennai,3,1932,25,Overnight transaction (00:00–04:59),Low
+TXN00174,CUST1209,2026-10-05T17:44:00,117.03,Card,Mumbai,4,2047,25,Overnight transaction (00:00–04:59),Low
+TXN00624,CUST1007,2026-10-18T13:55:00,4942.15,Card,Bengaluru,9,11,20,New customer (<30 days),Low
+TXN00788,CUST1160,2026-10-06T14:09:00,2041.32,Card,Bengaluru,12,15,20,New customer (<30 days),Low
+TXN00689,CUST1064,2026-10-21T17:54:00,704.37,Card,Bengaluru,13,22,20,New customer (<30 days),Low
+TXN00288,CUST1220,2026-10-02T04:45:00,525.24,Card,Pune,20,20,20,New customer (<30 days),Low
+TXN00683,CUST1072,2026-10-23T02:04:00,20327.45,UPI,Bengaluru,18,720,10,UPI / Wallet channel,Low
+TXN00576,CUST1003,2026-10-05T02:36:00,18116.66,UPI,Mumbai,10,1300,10,UPI / Wallet channel,Low
+TXN00515,CUST1051,2026-10-18T10:33:00,15437.18,Wallet,Mumbai,17,1015,10,UPI / Wallet channel,Low
+TXN00193,CUST1161,2026-10-10T11:12:00,14773.9,UPI,Hyderabad,15,1519,10,UPI / Wallet channel,Low
+TXN00991,CUST1233,2026-10-20T02:36:00,12819.27,UPI,Mumbai,15,2311,10,UPI / Wallet channel,Low
+TXN00045,CUST1106,2026-10-30T20:11:00,11967.35,UPI,Bengaluru,6,2316,10,UPI / Wallet channel,Low
+TXN00406,CUST1224,2026-10-11T12:14:00,11699.22,UPI,Nagpur,5,1624,10,UPI / Wallet channel,Low
+TXN01153,CUST1151,2026-10-22T03:07:00,10804.95,UPI,Chennai,18,165,10,UPI / Wallet channel,Low
+TXN00270,CUST1098,2026-10-10T00:44:00,10790.26,UPI,Mumbai,6,2390,10,UPI / Wallet channel,Low
+TXN01161,CUST1075,2026-10-08T11:30:00,10544.49,UPI,Pune,21,857,10,UPI / Wallet channel,Low
+TXN00944,CUST1018,2026-10-20T00:20:00,10444.07,UPI,Bengaluru,23,663,10,UPI / Wallet channel,Low
+TXN00654,CUST1220,2026-10-12T03:47:00,10395.11,UPI,Bengaluru,10,330,10,UPI / Wallet channel,Low
+TXN00139,CUST1203,2026-10-17T23:50:00,10341.09,UPI,Chennai,21,1838,10,UPI / Wallet channel,Low
+TXN00876,CUST1054,2026-10-15T10:24:00,9731.08,UPI,Delhi,21,1709,10,UPI / Wallet channel,Low
+TXN00084,CUST1023,2026-10-10T10:42:00,9470.26,UPI,Mumbai,9,306,10,UPI / Wallet channel,Low
+TXN01155,CUST1217,2026-10-01T03:13:00,9448.24,UPI,Nagpur,16,2478,10,UPI / Wallet channel,Low
+TXN00531,CUST1060,2026-10-30T20:50:00,9415.74,UPI,Pune,17,1866,10,UPI / Wallet channel,Low
+TXN00372,CUST1013,2026-10-18T17:31:00,9180.16,UPI,Hyderabad,8,1171,10,UPI / Wallet channel,Low
+TXN01089,CUST1095,2026-10-07T05:57:00,9107.67,UPI,Pune,22,1295,10,UPI / Wallet channel,Low
+TXN00873,CUST1067,2026-10-07T05:12:00,8559.11,UPI,Delhi,23,1312,10,UPI / Wallet channel,Low
+TXN00656,CUST1000,2026-10-06T07:13:00,8274.15,UPI,Bengaluru,7,702,10,UPI / Wallet channel,Low
+TXN00799,CUST1114,2026-10-27T22:19:00,8057.5,Wallet,Nagpur,15,1126,10,UPI / Wallet channel,Low
+TXN00820,CUST1003,2026-10-13T07:38:00,7971.22,UPI,Chennai,5,1092,10,UPI / Wallet channel,Low
+TXN00056,CUST1108,2026-10-12T18:19:00,7743.55,UPI,Bengaluru,10,925,10,UPI / Wallet channel,Low
+TXN00511,CUST1062,2026-10-28T07:19:00,7735.06,UPI,Hyderabad,21,1088,10,UPI / Wallet channel,Low
+TXN00209,CUST1052,2026-10-30T19:36:00,7684.15,UPI,Bengaluru,7,1567,10,UPI / Wallet channel,Low
+TXN01128,CUST1020,2026-10-30T16:27:00,7631.13,UPI,Delhi,20,1013,10,UPI / Wallet channel,Low
+TXN00324,CUST1239,2026-10-17T09:19:00,7596.8,Wallet,Mumbai,11,1553,10,UPI / Wallet channel,Low
+TXN01075,CUST1248,2026-10-15T07:14:00,7595.77,UPI,Mumbai,6,2288,10,UPI / Wallet channel,Low
+TXN00651,CUST1077,2026-10-24T14:56:00,7397.78,UPI,Bengaluru,18,2277,10,UPI / Wallet channel,Low
+TXN01012,CUST1186,2026-10-19T02:31:00,7355.86,UPI,Nagpur,18,2170,10,UPI / Wallet channel,Low
+TXN00706,CUST1032,2026-10-22T12:55:00,7315.93,UPI,Mumbai,22,995,10,UPI / Wallet channel,Low
+TXN01079,CUST1033,2026-10-08T08:13:00,7058.93,UPI,Mumbai,6,2341,10,UPI / Wallet channel,Low
+TXN00894,CUST1019,2026-10-07T08:02:00,6859.95,UPI,Nagpur,15,1013,10,UPI / Wallet channel,Low
+TXN00407,CUST1222,2026-10-03T13:57:00,6799.11,UPI,Delhi,7,1242,10,UPI / Wallet channel,Low
+TXN00201,CUST1079,2026-10-06T12:18:00,6776.85,Wallet,Nagpur,16,807,10,UPI / Wallet channel,Low
+TXN01152,CUST1101,2026-10-27T12:21:00,6724.34,UPI,Bengaluru,5,1790,10,UPI / Wallet channel,Low
+TXN00429,CUST1134,2026-10-11T19:16:00,6721.04,UPI,Chennai,21,500,10,UPI / Wallet channel,Low
+TXN00098,CUST1235,2026-10-02T09:13:00,6689.18,UPI,Chennai,10,385,10,UPI / Wallet channel,Low
+TXN00233,CUST1230,2026-10-31T08:17:00,6524.17,UPI,Chennai,15,268,10,UPI / Wallet channel,Low
+TXN00218,CUST1085,2026-10-07T16:05:00,6493.79,Wallet,Nagpur,21,1195,10,UPI / Wallet channel,Low
+TXN00839,CUST1033,2026-10-26T05:06:00,6319.79,UPI,Bengaluru,18,653,10,UPI / Wallet channel,Low
+TXN00068,CUST1153,2026-10-15T20:39:00,6206.24,Wallet,Delhi,9,1386,10,UPI / Wallet channel,Low
+TXN00508,CUST1239,2026-10-14T09:10:00,6195.83,Wallet,Hyderabad,19,1897,10,UPI / Wallet channel,Low
+TXN00212,CUST1118,2026-10-21T08:07:00,6158.93,UPI,Chennai,21,2183,10,UPI / Wallet channel,Low
+TXN00478,CUST1041,2026-10-30T09:47:00,6121.62,UPI,Nagpur,17,1681,10,UPI / Wallet channel,Low
+TXN01179,CUST1202,2026-10-08T17:09:00,6104.96,UPI,Delhi,22,1460,10,UPI / Wallet channel,Low
+TXN00658,CUST1155,2026-10-03T20:38:00,6077.53,UPI,Bengaluru,22,959,10,UPI / Wallet channel,Low
+TXN00264,CUST1004,2026-10-15T12:56:00,5971.99,UPI,Nagpur,14,1597,10,UPI / Wallet channel,Low
+TXN00519,CUST1177,2026-10-18T04:39:00,5930.28,UPI,Nagpur,6,701,10,UPI / Wallet channel,Low
+TXN01007,CUST1072,2026-10-22T21:43:00,5901.65,UPI,Pune,17,926,10,UPI / Wallet channel,Low
+TXN00633,CUST1129,2026-10-02T05:25:00,5877.98,UPI,Hyderabad,15,377,10,UPI / Wallet channel,Low
+TXN01135,CUST1138,2026-10-15T04:34:00,5823.67,UPI,Hyderabad,15,965,10,UPI / Wallet channel,Low
+TXN00439,CUST1111,2026-10-02T02:39:00,5547.41,UPI,Pune,23,1820,10,UPI / Wallet channel,Low
+TXN00071,CUST1114,2026-10-01T08:59:00,5316.63,UPI,Nagpur,17,2421,10,UPI / Wallet channel,Low
+TXN00645,CUST1241,2026-10-08T14:36:00,5304.44,UPI,Delhi,8,718,10,UPI / Wallet channel,Low
+TXN00561,CUST1149,2026-10-26T00:34:00,5119.75,UPI,Delhi,7,421,10,UPI / Wallet channel,Low
+TXN00831,CUST1143,2026-10-09T23:00:00,5006.78,UPI,Chennai,9,2483,10,UPI / Wallet channel,Low
+TXN01088,CUST1000,2026-10-05T00:09:00,5001.4,Wallet,Nagpur,20,1079,10,UPI / Wallet channel,Low
+TXN01069,CUST1029,2026-10-18T04:51:00,4813.85,UPI,Nagpur,8,190,10,UPI / Wallet channel,Low
+TXN00899,CUST1221,2026-10-04T23:52:00,4803.67,UPI,Chennai,8,1408,10,UPI / Wallet channel,Low
+TXN00304,CUST1024,2026-10-09T19:20:00,4780.26,UPI,Delhi,11,243,10,UPI / Wallet channel,Low
+TXN00349,CUST1142,2026-10-21T13:01:00,4775.6,UPI,Pune,22,1599,10,UPI / Wallet channel,Low
+TXN00773,CUST1118,2026-10-22T01:04:00,4657.42,UPI,Chennai,15,2189,10,UPI / Wallet channel,Low
+TXN00780,CUST1052,2026-10-06T06:15:00,4638.62,UPI,Bengaluru,6,1284,10,UPI / Wallet channel,Low
+TXN00168,CUST1179,2026-10-08T16:48:00,4636.69,UPI,Pune,17,2187,10,UPI / Wallet channel,Low
+TXN01194,CUST1085,2026-10-15T05:06:00,4616.6,Wallet,Bengaluru,13,1561,10,UPI / Wallet channel,Low
+TXN01162,CUST1047,2026-10-10T09:12:00,4592.44,UPI,Chennai,10,556,10,UPI / Wallet channel,Low
+TXN01073,CUST1219,2026-10-04T06:26:00,4531.67,UPI,Chennai,12,1612,10,UPI / Wallet channel,Low
+TXN01146,CUST1079,2026-10-04T09:09:00,4528.96,UPI,Chennai,9,349,10,UPI / Wallet channel,Low
+TXN01056,CUST1160,2026-10-08T16:20:00,4509.53,UPI,Pune,19,2194,10,UPI / Wallet channel,Low
+TXN00434,CUST1001,2026-10-07T06:35:00,4495.29,Wallet,Pune,15,1892,10,UPI / Wallet channel,Low
+TXN00901,CUST1245,2026-10-28T16:25:00,4493.13,UPI,Nagpur,19,1603,10,UPI / Wallet channel,Low
+TXN00973,CUST1184,2026-10-10T21:52:00,4412.6,UPI,Mumbai,15,1881,10,UPI / Wallet channel,Low
+TXN00148,CUST1231,2026-10-16T22:50:00,4402.74,Wallet,Delhi,17,1898,10,UPI / Wallet channel,Low
+TXN00591,CUST1184,2026-10-04T00:05:00,4392.24,UPI,Bengaluru,10,489,10,UPI / Wallet channel,Low
+TXN00822,CUST1038,2026-10-27T18:55:00,4346.16,UPI,Chennai,7,552,10,UPI / Wallet channel,Low
+TXN00636,CUST1249,2026-10-05T08:29:00,4329.63,UPI,Hyderabad,20,2094,10,UPI / Wallet channel,Low
+TXN00279,CUST1119,2026-10-16T05:59:00,4319.92,UPI,Mumbai,18,1455,10,UPI / Wallet channel,Low
+TXN00388,CUST1124,2026-10-30T23:53:00,4279.6,Wallet,Chennai,9,649,10,UPI / Wallet channel,Low
+TXN00083,CUST1037,2026-10-22T10:00:00,4274.83,Wallet,Pune,6,403,10,UPI / Wallet channel,Low
+TXN00314,CUST1021,2026-10-03T07:05:00,4198.92,UPI,Delhi,5,309,10,UPI / Wallet channel,Low
+TXN00931,CUST1048,2026-10-31T05:23:00,4180.22,UPI,Mumbai,22,898,10,UPI / Wallet channel,Low
+TXN00403,CUST1140,2026-10-22T19:59:00,3950.62,UPI,Hyderabad,19,1114,10,UPI / Wallet channel,Low
+TXN00579,CUST1242,2026-10-13T19:46:00,3940.25,UPI,Chennai,14,313,10,UPI / Wallet channel,Low
+TXN00752,CUST1084,2026-10-03T04:56:00,3933.13,UPI,Hyderabad,10,1423,10,UPI / Wallet channel,Low
+TXN00156,CUST1084,2026-10-12T16:38:00,3913.15,UPI,Pune,9,2339,10,UPI / Wallet channel,Low
+TXN00594,CUST1112,2026-10-12T08:48:00,3903.06,UPI,Hyderabad,5,694,10,UPI / Wallet channel,Low
+TXN01118,CUST1165,2026-10-07T12:21:00,3827.21,UPI,Nagpur,5,74,10,UPI / Wallet channel,Low
+TXN00679,CUST1141,2026-10-23T07:37:00,3795.6,UPI,Hyderabad,22,2198,10,UPI / Wallet channel,Low
+TXN00965,CUST1239,2026-10-02T08:56:00,3768.85,UPI,Hyderabad,7,327,10,UPI / Wallet channel,Low
+TXN00649,CUST1007,2026-10-21T09:42:00,3767.51,UPI,Hyderabad,12,1786,10,UPI / Wallet channel,Low
+TXN01094,CUST1172,2026-10-06T20:50:00,3751.92,UPI,Pune,5,484,10,UPI / Wallet channel,Low
+TXN00385,CUST1106,2026-10-06T17:43:00,3714.93,UPI,Delhi,11,2127,10,UPI / Wallet channel,Low
+TXN00093,CUST1091,2026-10-03T08:59:00,3661.64,UPI,Pune,5,1275,10,UPI / Wallet channel,Low
+TXN00173,CUST1100,2026-10-21T11:22:00,3632.78,UPI,Pune,21,2427,10,UPI / Wallet channel,Low
+TXN00382,CUST1111,2026-10-24T20:56:00,3582.23,UPI,Mumbai,19,2323,10,UPI / Wallet channel,Low
+TXN00869,CUST1061,2026-10-08T12:55:00,3567.99,UPI,Pune,22,1329,10,UPI / Wallet channel,Low
+TXN00667,CUST1214,2026-10-01T10:47:00,3525.96,UPI,Delhi,15,77,10,UPI / Wallet channel,Low
+TXN00021,CUST1144,2026-10-15T08:37:00,3485.19,UPI,Delhi,16,2023,10,UPI / Wallet channel,Low
+TXN00031,CUST1072,2026-10-29T01:42:00,3479.49,Wallet,Bengaluru,23,1590,10,UPI / Wallet channel,Low
+TXN00251,CUST1031,2026-10-10T07:20:00,3450.27,Wallet,Nagpur,14,1569,10,UPI / Wallet channel,Low
+TXN00236,CUST1037,2026-10-16T09:27:00,3435.03,UPI,Mumbai,8,683,10,UPI / Wallet channel,Low
+TXN00766,CUST1129,2026-10-26T02:19:00,3428.04,UPI,Delhi,14,172,10,UPI / Wallet channel,Low
+TXN00126,CUST1063,2026-10-26T06:05:00,3412.15,Wallet,Chennai,18,1195,10,UPI / Wallet channel,Low
+TXN00533,CUST1163,2026-10-27T11:39:00,3363.2,UPI,Hyderabad,20,2063,10,UPI / Wallet channel,Low
+TXN00856,CUST1139,2026-10-24T11:57:00,3357.73,UPI,Chennai,7,476,10,UPI / Wallet channel,Low
+TXN00359,CUST1008,2026-10-10T11:45:00,3350.58,UPI,Hyderabad,13,1070,10,UPI / Wallet channel,Low
+TXN00933,CUST1141,2026-10-31T03:52:00,3347.0,UPI,Mumbai,9,1596,10,UPI / Wallet channel,Low
+TXN00854,CUST1087,2026-10-05T05:48:00,3346.66,UPI,Chennai,14,2171,10,UPI / Wallet channel,Low
+TXN00200,CUST1007,2026-10-17T00:14:00,3345.73,Wallet,Nagpur,12,1635,10,UPI / Wallet channel,Low
+TXN00717,CUST1048,2026-10-14T03:41:00,3331.13,UPI,Nagpur,7,2450,10,UPI / Wallet channel,Low
+TXN00652,CUST1133,2026-10-02T18:37:00,3315.82,UPI,Hyderabad,7,404,10,UPI / Wallet channel,Low
+TXN00124,CUST1074,2026-10-10T23:56:00,3315.49,UPI,Pune,17,1637,10,UPI / Wallet channel,Low
+TXN00224,CUST1117,2026-10-30T09:47:00,3308.67,UPI,Hyderabad,12,119,10,UPI / Wallet channel,Low
+TXN00568,CUST1151,2026-10-01T19:58:00,3299.67,UPI,Delhi,17,366,10,UPI / Wallet channel,Low
+TXN00360,CUST1083,2026-10-15T03:40:00,3271.07,UPI,Nagpur,8,280,10,UPI / Wallet channel,Low
+TXN00074,CUST1113,2026-10-05T10:24:00,3242.56,UPI,Pune,15,2243,10,UPI / Wallet channel,Low
+TXN00747,CUST1017,2026-10-08T07:33:00,3226.58,UPI,Mumbai,15,425,10,UPI / Wallet channel,Low
+TXN00513,CUST1006,2026-10-13T08:03:00,3221.44,UPI,Hyderabad,11,1029,10,UPI / Wallet channel,Low
+TXN01192,CUST1220,2026-10-26T08:42:00,3221.24,UPI,Pune,13,1133,10,UPI / Wallet channel,Low
+TXN00303,CUST1088,2026-10-21T10:30:00,3218.33,Wallet,Chennai,19,986,10,UPI / Wallet channel,Low
+TXN00105,CUST1112,2026-10-05T09:57:00,3182.66,Wallet,Mumbai,6,1730,10,UPI / Wallet channel,Low
+TXN00563,CUST1035,2026-10-03T09:47:00,3182.41,Wallet,Chennai,18,2359,10,UPI / Wallet channel,Low
+TXN00020,CUST1111,2026-10-28T23:32:00,3177.23,UPI,Nagpur,18,1128,10,UPI / Wallet channel,Low
+TXN00392,CUST1064,2026-10-06T18:21:00,3160.05,Wallet,Bengaluru,6,305,10,UPI / Wallet channel,Low
+TXN00663,CUST1159,2026-10-21T23:11:00,3146.94,UPI,Chennai,19,422,10,UPI / Wallet channel,Low
+TXN00537,CUST1081,2026-10-13T08:27:00,3144.55,UPI,Chennai,18,1459,10,UPI / Wallet channel,Low
+TXN01013,CUST1048,2026-10-04T05:50:00,3123.66,UPI,Mumbai,19,1609,10,UPI / Wallet channel,Low
+TXN00705,CUST1148,2026-10-05T02:42:00,3111.01,UPI,Nagpur,18,125,10,UPI / Wallet channel,Low
+TXN00013,CUST1109,2026-10-09T13:45:00,3102.94,UPI,Bengaluru,19,875,10,UPI / Wallet channel,Low
+TXN00191,CUST1061,2026-10-30T14:06:00,3067.78,UPI,Pune,10,2024,10,UPI / Wallet channel,Low
+TXN00326,CUST1147,2026-10-06T14:34:00,3038.09,Wallet,Hyderabad,22,1176,10,UPI / Wallet channel,Low
+TXN00410,CUST1196,2026-10-17T04:09:00,3003.79,UPI,Delhi,18,1220,10,UPI / Wallet channel,Low
+TXN01182,CUST1081,2026-10-25T14:38:00,2997.27,UPI,Hyderabad,13,664,10,UPI / Wallet channel,Low
+TXN00934,CUST1010,2026-10-16T18:59:00,2947.13,UPI,Chennai,7,660,10,UPI / Wallet channel,Low
+TXN00462,CUST1130,2026-10-15T03:49:00,2887.41,UPI,Hyderabad,9,2377,10,UPI / Wallet channel,Low
+TXN01100,CUST1196,2026-10-14T06:30:00,2841.9,UPI,Pune,8,2452,10,UPI / Wallet channel,Low
+TXN00762,CUST1031,2026-10-26T00:21:00,2825.24,Wallet,Mumbai,19,1894,10,UPI / Wallet channel,Low
+TXN00202,CUST1170,2026-10-26T19:05:00,2803.19,UPI,Bengaluru,10,1683,10,UPI / Wallet channel,Low
+TXN00985,CUST1210,2026-10-26T23:08:00,2769.51,UPI,Nagpur,21,1194,10,UPI / Wallet channel,Low
+TXN01076,CUST1199,2026-10-01T04:09:00,2747.54,UPI,Nagpur,21,558,10,UPI / Wallet channel,Low
+TXN00444,CUST1169,2026-10-16T10:57:00,2735.46,UPI,Chennai,21,1385,10,UPI / Wallet channel,Low
+TXN00227,CUST1216,2026-10-18T21:35:00,2733.9,UPI,Delhi,5,1998,10,UPI / Wallet channel,Low
+TXN00648,CUST1018,2026-10-07T17:11:00,2728.75,UPI,Hyderabad,14,1476,10,UPI / Wallet channel,Low
+TXN00225,CUST1244,2026-10-17T10:56:00,2706.97,UPI,Nagpur,21,2005,10,UPI / Wallet channel,Low
+TXN00131,CUST1000,2026-10-13T20:35:00,2704.56,UPI,Bengaluru,11,387,10,UPI / Wallet channel,Low
+TXN00751,CUST1174,2026-10-03T01:06:00,2704.48,UPI,Hyderabad,12,1908,10,UPI / Wallet channel,Low
+TXN01133,CUST1235,2026-10-26T21:14:00,2693.9,UPI,Hyderabad,21,1058,10,UPI / Wallet channel,Low
+TXN00399,CUST1092,2026-10-21T14:27:00,2681.37,UPI,Bengaluru,11,1177,10,UPI / Wallet channel,Low
+TXN00577,CUST1080,2026-10-30T07:57:00,2675.79,UPI,Delhi,5,1796,10,UPI / Wallet channel,Low
+TXN01147,CUST1126,2026-10-28T00:22:00,2652.18,UPI,Pune,12,310,10,UPI / Wallet channel,Low
+TXN00377,CUST1027,2026-10-11T09:42:00,2637.6,UPI,Delhi,14,2362,10,UPI / Wallet channel,Low
+TXN00072,CUST1011,2026-10-28T06:07:00,2622.2,UPI,Nagpur,7,1955,10,UPI / Wallet channel,Low
+TXN01048,CUST1095,2026-10-02T07:16:00,2614.03,Wallet,Hyderabad,7,1965,10,UPI / Wallet channel,Low
+TXN01167,CUST1209,2026-10-25T21:23:00,2593.35,UPI,Chennai,7,219,10,UPI / Wallet channel,Low
+TXN00776,CUST1146,2026-10-02T14:39:00,2567.61,UPI,Hyderabad,12,465,10,UPI / Wallet channel,Low
+TXN00421,CUST1104,2026-10-11T20:16:00,2556.79,UPI,Pune,22,2070,10,UPI / Wallet channel,Low
+TXN00941,CUST1094,2026-10-25T06:40:00,2554.06,Wallet,Bengaluru,7,457,10,UPI / Wallet channel,Low
+TXN00969,CUST1202,2026-10-01T01:24:00,2547.17,UPI,Delhi,18,947,10,UPI / Wallet channel,Low
+TXN00777,CUST1078,2026-10-20T10:33:00,2525.38,Wallet,Pune,5,1295,10,UPI / Wallet channel,Low
+TXN00929,CUST1009,2026-10-03T04:19:00,2519.52,UPI,Hyderabad,13,1525,10,UPI / Wallet channel,Low
+TXN00165,CUST1190,2026-10-02T08:06:00,2517.42,UPI,Bengaluru,20,286,10,UPI / Wallet channel,Low
+TXN00175,CUST1085,2026-10-21T09:13:00,2514.37,UPI,Bengaluru,16,2330,10,UPI / Wallet channel,Low
+TXN01145,CUST1005,2026-10-08T04:28:00,2513.44,UPI,Nagpur,9,2284,10,UPI / Wallet channel,Low
+TXN01025,CUST1123,2026-10-01T13:09:00,2503.42,UPI,Pune,7,1875,10,UPI / Wallet channel,Low
+TXN00719,CUST1160,2026-10-26T04:05:00,2496.77,UPI,Hyderabad,9,1932,10,UPI / Wallet channel,Low
+TXN00732,CUST1168,2026-10-03T23:02:00,2496.7,UPI,Hyderabad,7,1403,10,UPI / Wallet channel,Low
+TXN01060,CUST1208,2026-10-02T09:54:00,2489.52,UPI,Chennai,8,874,10,UPI / Wallet channel,Low
+TXN00180,CUST1246,2026-10-27T05:25:00,2482.53,UPI,Hyderabad,11,863,10,UPI / Wallet channel,Low
+TXN00255,CUST1054,2026-10-21T14:13:00,2479.94,Wallet,Delhi,20,2047,10,UPI / Wallet channel,Low
+TXN00640,CUST1117,2026-10-03T16:34:00,2447.8,UPI,Hyderabad,18,2011,10,UPI / Wallet channel,Low
+TXN00194,CUST1072,2026-10-27T16:15:00,2441.22,UPI,Bengaluru,6,1030,10,UPI / Wallet channel,Low
+TXN00140,CUST1205,2026-10-03T10:06:00,2436.43,UPI,Bengaluru,19,548,10,UPI / Wallet channel,Low
+TXN01090,CUST1133,2026-10-27T18:11:00,2425.43,UPI,Mumbai,22,1909,10,UPI / Wallet channel,Low
+TXN00861,CUST1103,2026-10-25T06:58:00,2392.2,UPI,Bengaluru,7,2434,10,UPI / Wallet channel,Low
+TXN00422,CUST1216,2026-10-12T07:35:00,2386.35,UPI,Bengaluru,12,823,10,UPI / Wallet channel,Low
+TXN00244,CUST1247,2026-10-28T00:19:00,2370.31,UPI,Bengaluru,9,2436,10,UPI / Wallet channel,Low
+TXN00647,CUST1026,2026-10-17T00:33:00,2354.52,UPI,Pune,21,514,10,UPI / Wallet channel,Low
+TXN00493,CUST1199,2026-10-05T18:42:00,2345.56,UPI,Chennai,19,755,10,UPI / Wallet channel,Low
+TXN00153,CUST1225,2026-10-27T16:43:00,2336.34,UPI,Hyderabad,22,1948,10,UPI / Wallet channel,Low
+TXN01031,CUST1204,2026-10-11T12:05:00,2331.05,UPI,Nagpur,18,1898,10,UPI / Wallet channel,Low
+TXN01057,CUST1138,2026-10-18T14:25:00,2328.15,UPI,Delhi,14,578,10,UPI / Wallet channel,Low
+TXN00982,CUST1155,2026-10-06T10:58:00,2301.75,UPI,Nagpur,12,824,10,UPI / Wallet channel,Low
+TXN00921,CUST1186,2026-10-28T08:01:00,2294.95,UPI,Nagpur,7,751,10,UPI / Wallet channel,Low
+TXN00571,CUST1000,2026-10-07T13:21:00,2281.84,UPI,Chennai,12,223,10,UPI / Wallet channel,Low
+TXN01074,CUST1105,2026-10-12T10:15:00,2278.64,Wallet,Nagpur,20,300,10,UPI / Wallet channel,Low
+TXN00416,CUST1163,2026-10-03T03:26:00,2268.12,UPI,Delhi,10,2171,10,UPI / Wallet channel,Low
+TXN00832,CUST1026,2026-10-13T15:56:00,2258.64,UPI,Bengaluru,16,1142,10,UPI / Wallet channel,Low
+TXN00267,CUST1092,2026-10-20T12:02:00,2256.54,Wallet,Pune,18,1765,10,UPI / Wallet channel,Low
+TXN00905,CUST1085,2026-10-30T05:04:00,2250.78,UPI,Hyderabad,5,1038,10,UPI / Wallet channel,Low
+TXN00205,CUST1000,2026-10-27T08:55:00,2245.83,UPI,Mumbai,6,574,10,UPI / Wallet channel,Low
+TXN00125,CUST1140,2026-10-19T03:15:00,2240.41,UPI,Chennai,8,160,10,UPI / Wallet channel,Low
+TXN00141,CUST1041,2026-10-27T04:51:00,2223.22,UPI,Bengaluru,17,1758,10,UPI / Wallet channel,Low
+TXN00470,CUST1084,2026-10-23T14:40:00,2221.26,UPI,Bengaluru,18,2158,10,UPI / Wallet channel,Low
+TXN00787,CUST1064,2026-10-30T14:31:00,2214.15,UPI,Nagpur,17,1572,10,UPI / Wallet channel,Low
+TXN00811,CUST1181,2026-10-07T19:04:00,2207.97,UPI,Chennai,16,324,10,UPI / Wallet channel,Low
+TXN00502,CUST1243,2026-10-31T09:41:00,2204.79,UPI,Pune,22,1701,10,UPI / Wallet channel,Low
+TXN00275,CUST1060,2026-10-06T09:58:00,2202.31,UPI,Hyderabad,5,1800,10,UPI / Wallet channel,Low
+TXN00082,CUST1104,2026-10-18T22:02:00,2199.08,Wallet,Hyderabad,15,371,10,UPI / Wallet channel,Low
+TXN00709,CUST1034,2026-10-30T23:48:00,2189.32,UPI,Delhi,15,1635,10,UPI / Wallet channel,Low
+TXN00712,CUST1060,2026-10-01T10:30:00,2184.06,UPI,Nagpur,23,210,10,UPI / Wallet channel,Low
+TXN00708,CUST1179,2026-10-07T02:33:00,2181.13,UPI,Pune,10,2385,10,UPI / Wallet channel,Low
+TXN00826,CUST1155,2026-10-11T02:31:00,2178.79,UPI,Delhi,7,669,10,UPI / Wallet channel,Low
+TXN00542,CUST1078,2026-10-20T22:02:00,2178.08,Wallet,Bengaluru,18,1876,10,UPI / Wallet channel,Low
+TXN00669,CUST1187,2026-10-12T13:18:00,2171.71,UPI,Hyderabad,17,403,10,UPI / Wallet channel,Low
+TXN00680,CUST1200,2026-10-27T01:39:00,2108.81,UPI,Chennai,10,1075,10,UPI / Wallet channel,Low
+TXN00157,CUST1171,2026-10-01T17:37:00,2102.16,UPI,Mumbai,18,776,10,UPI / Wallet channel,Low
+TXN00893,CUST1109,2026-10-22T07:16:00,2089.75,UPI,Delhi,15,1637,10,UPI / Wallet channel,Low
+TXN00575,CUST1162,2026-10-06T05:02:00,2086.9,UPI,Pune,23,745,10,UPI / Wallet channel,Low
+TXN00115,CUST1100,2026-10-19T22:17:00,2083.95,UPI,Pune,6,1901,10,UPI / Wallet channel,Low
+TXN00420,CUST1024,2026-10-28T11:25:00,2069.95,UPI,Pune,23,2078,10,UPI / Wallet channel,Low
+TXN00237,CUST1213,2026-10-29T20:43:00,2062.92,Wallet,Chennai,5,1981,10,UPI / Wallet channel,Low
+TXN00903,CUST1042,2026-10-29T02:34:00,2061.33,UPI,Pune,23,1400,10,UPI / Wallet channel,Low
+TXN00868,CUST1099,2026-10-08T08:58:00,2053.3,UPI,Chennai,6,1658,10,UPI / Wallet channel,Low
+TXN00803,CUST1154,2026-10-01T05:54:00,2049.33,UPI,Mumbai,10,1931,10,UPI / Wallet channel,Low
+TXN01033,CUST1151,2026-10-23T19:32:00,2038.19,UPI,Bengaluru,13,2001,10,UPI / Wallet channel,Low
+TXN00111,CUST1198,2026-10-07T21:06:00,2033.46,UPI,Chennai,7,194,10,UPI / Wallet channel,Low
+TXN01050,CUST1074,2026-10-04T14:45:00,2027.82,UPI,Hyderabad,14,2119,10,UPI / Wallet channel,Low
+TXN01036,CUST1078,2026-10-13T17:04:00,2015.04,UPI,Delhi,12,757,10,UPI / Wallet channel,Low
+TXN00453,CUST1043,2026-10-30T01:43:00,2011.87,Wallet,Bengaluru,21,1116,10,UPI / Wallet channel,Low
+TXN01041,CUST1222,2026-10-28T03:27:00,2006.58,UPI,Hyderabad,15,272,10,UPI / Wallet channel,Low
+TXN00545,CUST1061,2026-10-10T21:43:00,1997.77,UPI,Pune,5,355,10,UPI / Wallet channel,Low
+TXN00034,CUST1184,2026-10-24T03:36:00,1993.1,UPI,Bengaluru,7,1657,10,UPI / Wallet channel,Low
+TXN00386,CUST1012,2026-10-13T22:48:00,1985.43,UPI,Chennai,6,1070,10,UPI / Wallet channel,Low
+TXN00143,CUST1126,2026-10-09T05:09:00,1963.57,UPI,Pune,16,1987,10,UPI / Wallet channel,Low
+TXN00467,CUST1072,2026-10-31T19:05:00,1961.0,UPI,Hyderabad,17,158,10,UPI / Wallet channel,Low
+TXN00736,CUST1201,2026-10-15T20:34:00,1952.28,UPI,Bengaluru,21,2491,10,UPI / Wallet channel,Low
+TXN00897,CUST1080,2026-10-17T00:13:00,1928.77,UPI,Pune,7,1078,10,UPI / Wallet channel,Low
+TXN00252,CUST1191,2026-10-15T23:18:00,1918.95,Wallet,Chennai,13,2248,10,UPI / Wallet channel,Low
+TXN00361,CUST1132,2026-10-05T11:49:00,1907.53,UPI,Nagpur,18,2118,10,UPI / Wallet channel,Low
+TXN00870,CUST1080,2026-10-13T00:18:00,1903.38,UPI,Bengaluru,14,1390,10,UPI / Wallet channel,Low
+TXN00495,CUST1159,2026-10-10T17:48:00,1892.64,UPI,Mumbai,11,240,10,UPI / Wallet channel,Low
+TXN00695,CUST1035,2026-10-24T12:12:00,1887.84,UPI,Mumbai,20,1078,10,UPI / Wallet channel,Low
+TXN00136,CUST1176,2026-10-20T05:23:00,1886.18,UPI,Chennai,22,478,10,UPI / Wallet channel,Low
+TXN00602,CUST1008,2026-10-09T21:20:00,1875.04,UPI,Pune,10,2289,10,UPI / Wallet channel,Low
+TXN00670,CUST1037,2026-10-31T15:12:00,1850.45,Wallet,Delhi,8,702,10,UPI / Wallet channel,Low
+TXN00276,CUST1215,2026-10-12T10:44:00,1842.93,UPI,Bengaluru,7,335,10,UPI / Wallet channel,Low
+TXN00567,CUST1014,2026-10-30T02:52:00,1842.02,UPI,Hyderabad,19,75,10,UPI / Wallet channel,Low
+TXN00002,CUST1125,2026-10-12T11:52:00,1835.47,UPI,Nagpur,23,1967,10,UPI / Wallet channel,Low
+TXN00947,CUST1010,2026-10-02T02:40:00,1806.53,UPI,Bengaluru,16,1355,10,UPI / Wallet channel,Low
+TXN00095,CUST1131,2026-10-23T01:21:00,1789.21,UPI,Mumbai,8,1893,10,UPI / Wallet channel,Low
+TXN01172,CUST1236,2026-10-19T15:42:00,1746.96,Wallet,Bengaluru,10,2422,10,UPI / Wallet channel,Low
+TXN00022,CUST1035,2026-10-19T02:34:00,1745.71,UPI,Hyderabad,20,1801,10,UPI / Wallet channel,Low
+TXN00060,CUST1145,2026-10-03T14:51:00,1742.99,UPI,Chennai,20,1539,10,UPI / Wallet channel,Low
+TXN00387,CUST1087,2026-10-18T02:06:00,1738.72,UPI,Hyderabad,8,1919,10,UPI / Wallet channel,Low
+TXN01020,CUST1077,2026-10-10T06:15:00,1735.75,UPI,Nagpur,19,1629,10,UPI / Wallet channel,Low
+TXN00522,CUST1177,2026-10-03T15:53:00,1733.9,UPI,Chennai,13,1670,10,UPI / Wallet channel,Low
+TXN01080,CUST1231,2026-10-13T10:39:00,1724.06,UPI,Nagpur,19,1591,10,UPI / Wallet channel,Low
+TXN00378,CUST1245,2026-10-11T12:13:00,1721.32,UPI,Delhi,6,490,10,UPI / Wallet channel,Low
+TXN00238,CUST1126,2026-10-15T22:25:00,1716.66,UPI,Pune,14,942,10,UPI / Wallet channel,Low
+TXN00770,CUST1005,2026-10-27T11:06:00,1712.86,Wallet,Hyderabad,19,1552,10,UPI / Wallet channel,Low
+TXN00466,CUST1225,2026-10-18T16:58:00,1705.22,UPI,Chennai,21,2399,10,UPI / Wallet channel,Low
+TXN00842,CUST1186,2026-10-09T06:53:00,1702.28,UPI,Bengaluru,14,380,10,UPI / Wallet channel,Low
+TXN00643,CUST1049,2026-10-12T01:31:00,1696.47,UPI,Delhi,12,1535,10,UPI / Wallet channel,Low
+TXN00268,CUST1149,2026-10-24T02:25:00,1696.34,UPI,Mumbai,19,1844,10,UPI / Wallet channel,Low
+TXN01178,CUST1075,2026-10-13T18:28:00,1685.68,Wallet,Delhi,6,287,10,UPI / Wallet channel,Low
+TXN01035,CUST1169,2026-10-16T05:39:00,1678.12,UPI,Hyderabad,19,1613,10,UPI / Wallet channel,Low
+TXN01044,CUST1173,2026-10-23T18:25:00,1660.83,UPI,Hyderabad,13,1508,10,UPI / Wallet channel,Low
+TXN00368,CUST1181,2026-10-27T15:29:00,1657.74,UPI,Chennai,22,2428,10,UPI / Wallet channel,Low
+TXN00552,CUST1176,2026-10-24T14:03:00,1655.59,UPI,Chennai,9,2383,10,UPI / Wallet channel,Low
+TXN00979,CUST1005,2026-10-27T07:43:00,1643.84,UPI,Chennai,21,576,10,UPI / Wallet channel,Low
+TXN01091,CUST1171,2026-10-31T14:50:00,1641.45,UPI,Mumbai,5,339,10,UPI / Wallet channel,Low
+TXN00916,CUST1085,2026-10-27T03:01:00,1635.06,UPI,Hyderabad,20,147,10,UPI / Wallet channel,Low
+TXN00176,CUST1132,2026-10-14T13:51:00,1633.16,UPI,Pune,14,1986,10,UPI / Wallet channel,Low
+TXN00879,CUST1054,2026-10-10T22:43:00,1615.01,UPI,Hyderabad,15,2124,10,UPI / Wallet channel,Low
+TXN01139,CUST1034,2026-10-31T13:03:00,1592.37,UPI,Chennai,22,1053,10,UPI / Wallet channel,Low
+TXN01065,CUST1166,2026-10-05T04:25:00,1585.74,UPI,Bengaluru,8,43,10,UPI / Wallet channel,Low
+TXN00881,CUST1181,2026-10-17T08:27:00,1578.47,UPI,Delhi,15,2194,10,UPI / Wallet channel,Low
+TXN00463,CUST1153,2026-10-25T09:13:00,1570.26,UPI,Mumbai,11,1160,10,UPI / Wallet channel,Low
+TXN00867,CUST1126,2026-10-09T19:30:00,1567.16,UPI,Mumbai,14,2021,10,UPI / Wallet channel,Low
+TXN01174,CUST1246,2026-10-31T23:38:00,1565.42,UPI,Nagpur,12,1735,10,UPI / Wallet channel,Low
+TXN01166,CUST1010,2026-10-23T08:53:00,1553.4,UPI,Mumbai,12,2116,10,UPI / Wallet channel,Low
+TXN00184,CUST1064,2026-10-04T21:36:00,1550.99,UPI,Bengaluru,10,862,10,UPI / Wallet channel,Low
+TXN00586,CUST1115,2026-10-11T22:26:00,1547.87,UPI,Mumbai,15,1058,10,UPI / Wallet channel,Low
+TXN00687,CUST1201,2026-10-21T20:03:00,1542.96,UPI,Pune,10,954,10,UPI / Wallet channel,Low
+TXN01127,CUST1149,2026-10-27T08:18:00,1540.54,UPI,Chennai,17,1525,10,UPI / Wallet channel,Low
+TXN00755,CUST1183,2026-10-22T22:13:00,1534.28,UPI,Chennai,17,1178,10,UPI / Wallet channel,Low
+TXN00123,CUST1227,2026-10-31T12:05:00,1520.16,UPI,Delhi,9,2228,10,UPI / Wallet channel,Low
+TXN00155,CUST1152,2026-10-12T22:11:00,1504.22,UPI,Bengaluru,15,876,10,UPI / Wallet channel,Low
+TXN00390,CUST1095,2026-10-23T08:27:00,1501.97,UPI,Delhi,14,2324,10,UPI / Wallet channel,Low
+TXN00877,CUST1203,2026-10-04T16:39:00,1500.28,UPI,Chennai,21,171,10,UPI / Wallet channel,Low
+TXN00958,CUST1050,2026-10-07T19:01:00,1499.14,UPI,Nagpur,16,1806,10,UPI / Wallet channel,Low
+TXN00516,CUST1120,2026-10-12T18:04:00,1485.07,UPI,Hyderabad,10,2328,10,UPI / Wallet channel,Low
+TXN00177,CUST1070,2026-10-13T07:45:00,1482.14,Wallet,Mumbai,18,708,10,UPI / Wallet channel,Low
+TXN00232,CUST1026,2026-10-21T17:41:00,1474.47,Wallet,Hyderabad,18,2068,10,UPI / Wallet channel,Low
+TXN00243,CUST1024,2026-10-07T03:52:00,1463.48,UPI,Delhi,13,472,10,UPI / Wallet channel,Low
+TXN00347,CUST1003,2026-10-23T04:08:00,1455.31,Wallet,Chennai,7,1278,10,UPI / Wallet channel,Low
+TXN00067,CUST1234,2026-10-23T20:41:00,1432.57,UPI,Delhi,7,224,10,UPI / Wallet channel,Low
+TXN00041,CUST1138,2026-10-27T01:33:00,1423.6,UPI,Chennai,23,1496,10,UPI / Wallet channel,Low
+TXN00101,CUST1134,2026-10-29T20:57:00,1417.62,UPI,Mumbai,14,1861,10,UPI / Wallet channel,Low
+TXN00825,CUST1155,2026-10-27T23:14:00,1417.07,UPI,Chennai,22,1589,10,UPI / Wallet channel,Low
+TXN00505,CUST1011,2026-10-12T19:15:00,1411.79,UPI,Delhi,11,1532,10,UPI / Wallet channel,Low
+TXN00517,CUST1230,2026-10-19T23:47:00,1406.58,UPI,Chennai,7,1024,10,UPI / Wallet channel,Low
+TXN00090,CUST1095,2026-10-16T07:38:00,1403.37,UPI,Delhi,12,2001,10,UPI / Wallet channel,Low
+TXN00229,CUST1141,2026-10-10T00:39:00,1401.91,UPI,Bengaluru,18,2423,10,UPI / Wallet channel,Low
+TXN00461,CUST1228,2026-10-12T11:26:00,1397.62,UPI,Mumbai,20,1835,10,UPI / Wallet channel,Low
+TXN00573,CUST1003,2026-10-03T07:46:00,1379.78,UPI,Nagpur,20,1531,10,UPI / Wallet channel,Low
+TXN00097,CUST1020,2026-10-02T06:40:00,1377.18,UPI,Hyderabad,12,828,10,UPI / Wallet channel,Low
+TXN00412,CUST1025,2026-10-24T16:28:00,1372.68,UPI,Nagpur,9,886,10,UPI / Wallet channel,Low
+TXN00858,CUST1044,2026-10-17T01:01:00,1372.65,UPI,Nagpur,17,1490,10,UPI / Wallet channel,Low
+TXN00260,CUST1043,2026-10-21T20:36:00,1354.97,UPI,Bengaluru,18,465,10,UPI / Wallet channel,Low
+TXN00245,CUST1008,2026-10-12T10:47:00,1349.62,UPI,Hyderabad,8,917,10,UPI / Wallet channel,Low
+TXN00458,CUST1095,2026-10-01T19:21:00,1347.87,UPI,Nagpur,14,2148,10,UPI / Wallet channel,Low
+TXN00294,CUST1029,2026-10-08T21:31:00,1344.91,UPI,Hyderabad,19,2008,10,UPI / Wallet channel,Low
+TXN00694,CUST1185,2026-10-10T15:25:00,1341.32,Wallet,Pune,15,1312,10,UPI / Wallet channel,Low
+TXN00889,CUST1040,2026-10-07T04:33:00,1338.14,UPI,Delhi,18,2001,10,UPI / Wallet channel,Low
+TXN00888,CUST1075,2026-10-29T08:01:00,1324.5,UPI,Mumbai,13,1168,10,UPI / Wallet channel,Low
+TXN00950,CUST1101,2026-10-12T02:12:00,1324.17,UPI,Delhi,8,1858,10,UPI / Wallet channel,Low
+TXN00827,CUST1085,2026-10-06T07:45:00,1322.71,UPI,Pune,16,2134,10,UPI / Wallet channel,Low
+TXN00055,CUST1034,2026-10-06T02:50:00,1321.91,UPI,Pune,16,162,10,UPI / Wallet channel,Low
+TXN00431,CUST1225,2026-10-04T06:53:00,1320.03,UPI,Nagpur,18,391,10,UPI / Wallet channel,Low
+TXN00023,CUST1010,2026-10-06T20:02:00,1318.94,UPI,Mumbai,15,1969,10,UPI / Wallet channel,Low
+TXN01083,CUST1017,2026-10-03T02:51:00,1313.29,UPI,Pune,16,2223,10,UPI / Wallet channel,Low
+TXN00048,CUST1144,2026-10-05T18:17:00,1311.92,UPI,Chennai,7,2303,10,UPI / Wallet channel,Low
+TXN00813,CUST1175,2026-10-31T22:08:00,1310.03,UPI,Nagpur,12,925,10,UPI / Wallet channel,Low
+TXN01169,CUST1236,2026-10-29T20:52:00,1302.57,UPI,Bengaluru,11,1327,10,UPI / Wallet channel,Low
+TXN01002,CUST1085,2026-10-23T18:43:00,1301.08,UPI,Delhi,7,1540,10,UPI / Wallet channel,Low
+TXN00989,CUST1044,2026-10-09T19:45:00,1296.14,UPI,Mumbai,23,1547,10,UPI / Wallet channel,Low
+TXN00932,CUST1148,2026-10-20T10:25:00,1294.57,UPI,Delhi,19,1020,10,UPI / Wallet channel,Low
+TXN00661,CUST1183,2026-10-06T16:45:00,1288.22,UPI,Pune,5,2205,10,UPI / Wallet channel,Low
+TXN01143,CUST1133,2026-10-03T23:23:00,1285.8,Wallet,Hyderabad,12,1305,10,UPI / Wallet channel,Low
+TXN00814,CUST1245,2026-10-24T09:44:00,1285.61,UPI,Chennai,5,2035,10,UPI / Wallet channel,Low
+TXN01068,CUST1234,2026-10-26T07:03:00,1277.46,UPI,Chennai,23,1434,10,UPI / Wallet channel,Low
+TXN01040,CUST1234,2026-10-11T07:37:00,1273.17,UPI,Chennai,20,1188,10,UPI / Wallet channel,Low
+TXN00440,CUST1093,2026-10-06T23:36:00,1270.72,UPI,Delhi,17,926,10,UPI / Wallet channel,Low
+TXN00684,CUST1215,2026-10-20T22:11:00,1269.24,UPI,Nagpur,16,1989,10,UPI / Wallet channel,Low
+TXN01137,CUST1115,2026-10-05T06:21:00,1261.81,UPI,Chennai,16,2054,10,UPI / Wallet channel,Low
+TXN00108,CUST1202,2026-10-14T15:25:00,1255.89,UPI,Hyderabad,23,2168,10,UPI / Wallet channel,Low
+TXN00338,CUST1201,2026-10-01T16:09:00,1249.62,UPI,Pune,15,171,10,UPI / Wallet channel,Low
+TXN00265,CUST1205,2026-10-24T04:13:00,1241.52,UPI,Hyderabad,6,2004,10,UPI / Wallet channel,Low
+TXN00968,CUST1119,2026-10-07T07:54:00,1236.35,UPI,Bengaluru,15,1831,10,UPI / Wallet channel,Low
+TXN01138,CUST1129,2026-10-09T13:08:00,1231.21,UPI,Hyderabad,20,1885,10,UPI / Wallet channel,Low
+TXN00253,CUST1097,2026-10-23T10:32:00,1229.43,UPI,Bengaluru,20,495,10,UPI / Wallet channel,Low
+TXN00978,CUST1115,2026-10-27T16:09:00,1222.28,UPI,Chennai,17,1661,10,UPI / Wallet channel,Low
+TXN00328,CUST1241,2026-10-06T04:31:00,1220.32,UPI,Delhi,17,1429,10,UPI / Wallet channel,Low
+TXN00900,CUST1037,2026-10-31T23:10:00,1207.46,UPI,Delhi,5,797,10,UPI / Wallet channel,Low
+TXN00585,CUST1023,2026-10-26T23:49:00,1201.64,UPI,Mumbai,11,265,10,UPI / Wallet channel,Low
+TXN00612,CUST1037,2026-10-18T10:05:00,1199.14,UPI,Chennai,13,2461,10,UPI / Wallet channel,Low
+TXN00133,CUST1080,2026-10-29T08:08:00,1192.9,UPI,Nagpur,11,580,10,UPI / Wallet channel,Low
+TXN01125,CUST1038,2026-10-01T07:30:00,1189.15,Wallet,Nagpur,7,2218,10,UPI / Wallet channel,Low
+TXN00864,CUST1001,2026-10-10T08:17:00,1186.84,UPI,Pune,21,694,10,UPI / Wallet channel,Low
+TXN00863,CUST1030,2026-10-01T11:26:00,1185.35,UPI,Mumbai,21,2048,10,UPI / Wallet channel,Low
+TXN00853,CUST1249,2026-10-07T19:27:00,1184.71,UPI,Pune,18,1634,10,UPI / Wallet channel,Low
+TXN00796,CUST1216,2026-10-05T16:34:00,1180.45,Wallet,Bengaluru,10,824,10,UPI / Wallet channel,Low
+TXN00797,CUST1058,2026-10-29T14:49:00,1172.94,Wallet,Pune,8,2239,10,UPI / Wallet channel,Low
+TXN00341,CUST1164,2026-10-07T02:10:00,1171.8,UPI,Delhi,16,2022,10,UPI / Wallet channel,Low
+TXN00692,CUST1056,2026-10-02T05:15:00,1167.58,UPI,Hyderabad,17,1785,10,UPI / Wallet channel,Low
+TXN00445,CUST1207,2026-10-27T04:46:00,1166.2,Wallet,Pune,15,1248,10,UPI / Wallet channel,Low
+TXN01059,CUST1014,2026-10-17T11:15:00,1165.01,UPI,Mumbai,21,428,10,UPI / Wallet channel,Low
+TXN00249,CUST1077,2026-10-16T22:04:00,1164.42,Wallet,Mumbai,23,729,10,UPI / Wallet channel,Low
+TXN00757,CUST1127,2026-10-14T01:14:00,1161.47,UPI,Nagpur,23,1158,10,UPI / Wallet channel,Low
+TXN00302,CUST1113,2026-10-30T18:42:00,1156.25,UPI,Delhi,17,1312,10,UPI / Wallet channel,Low
+TXN00866,CUST1129,2026-10-15T08:30:00,1153.43,UPI,Bengaluru,17,322,10,UPI / Wallet channel,Low
+TXN00666,CUST1239,2026-10-25T16:04:00,1148.55,UPI,Nagpur,13,2437,10,UPI / Wallet channel,Low
+TXN00501,CUST1149,2026-10-04T08:43:00,1147.94,UPI,Hyderabad,11,1918,10,UPI / Wallet channel,Low
+TXN00150,CUST1066,2026-10-06T12:45:00,1139.34,UPI,Delhi,21,1709,10,UPI / Wallet channel,Low
+TXN00722,CUST1110,2026-10-30T10:30:00,1133.47,UPI,Bengaluru,6,670,10,UPI / Wallet channel,Low
+TXN00529,CUST1126,2026-10-07T00:31:00,1132.28,Wallet,Mumbai,6,2337,10,UPI / Wallet channel,Low
+TXN00908,CUST1004,2026-10-24T12:35:00,1131.71,UPI,Nagpur,18,2344,10,UPI / Wallet channel,Low
+TXN00629,CUST1004,2026-10-01T02:42:00,1119.68,UPI,Hyderabad,23,2447,10,UPI / Wallet channel,Low
+TXN00018,CUST1085,2026-10-04T15:47:00,1117.7,UPI,Pune,9,1579,10,UPI / Wallet channel,Low
+TXN00688,CUST1002,2026-10-11T15:43:00,1101.56,UPI,Mumbai,16,1180,10,UPI / Wallet channel,Low
+TXN00784,CUST1110,2026-10-24T10:50:00,1099.19,UPI,Mumbai,12,904,10,UPI / Wallet channel,Low
+TXN00855,CUST1068,2026-10-16T13:35:00,1094.98,UPI,Hyderabad,10,1888,10,UPI / Wallet channel,Low
+TXN00878,CUST1182,2026-10-09T13:10:00,1093.66,UPI,Mumbai,16,1025,10,UPI / Wallet channel,Low
+TXN00346,CUST1152,2026-10-29T19:36:00,1091.19,Wallet,Mumbai,9,2062,10,UPI / Wallet channel,Low
+TXN00402,CUST1247,2026-10-22T15:32:00,1085.13,UPI,Chennai,12,1986,10,UPI / Wallet channel,Low
+TXN00300,CUST1168,2026-10-16T15:55:00,1080.55,UPI,Bengaluru,17,303,10,UPI / Wallet channel,Low
+TXN00017,CUST1174,2026-10-06T03:39:00,1072.28,UPI,Hyderabad,21,1248,10,UPI / Wallet channel,Low
+TXN00073,CUST1249,2026-10-05T05:34:00,1069.99,UPI,Nagpur,18,1667,10,UPI / Wallet channel,Low
+TXN00682,CUST1153,2026-10-15T18:04:00,1067.77,Wallet,Mumbai,13,826,10,UPI / Wallet channel,Low
+TXN00231,CUST1053,2026-10-24T12:04:00,1059.96,UPI,Nagpur,12,2159,10,UPI / Wallet channel,Low
+TXN00182,CUST1183,2026-10-23T21:27:00,1059.43,Wallet,Delhi,12,763,10,UPI / Wallet channel,Low
+TXN00546,CUST1016,2026-10-14T21:39:00,1056.95,UPI,Chennai,8,1030,10,UPI / Wallet channel,Low
+TXN00860,CUST1093,2026-10-22T19:48:00,1052.72,UPI,Bengaluru,12,1789,10,UPI / Wallet channel,Low
+TXN00707,CUST1124,2026-10-06T20:23:00,1052.45,UPI,Bengaluru,22,1064,10,UPI / Wallet channel,Low
+TXN00596,CUST1112,2026-10-21T19:53:00,1052.14,UPI,Bengaluru,8,402,10,UPI / Wallet channel,Low
+TXN00370,CUST1140,2026-10-07T04:56:00,1049.3,UPI,Pune,23,760,10,UPI / Wallet channel,Low
+TXN00127,CUST1140,2026-10-14T05:47:00,1042.36,UPI,Nagpur,6,436,10,UPI / Wallet channel,Low
+TXN00604,CUST1099,2026-10-22T15:47:00,1037.37,UPI,Hyderabad,13,1103,10,UPI / Wallet channel,Low
+TXN00482,CUST1075,2026-10-08T17:45:00,1030.43,Wallet,Hyderabad,5,1610,10,UPI / Wallet channel,Low
+TXN00308,CUST1216,2026-10-02T13:51:00,1007.79,UPI,Nagpur,8,86,10,UPI / Wallet channel,Low
+TXN00401,CUST1146,2026-10-10T06:44:00,1006.69,UPI,Nagpur,23,731,10,UPI / Wallet channel,Low
+TXN00460,CUST1159,2026-10-28T16:29:00,1004.47,UPI,Delhi,8,1133,10,UPI / Wallet channel,Low
+TXN01019,CUST1017,2026-10-31T21:49:00,995.43,UPI,Nagpur,17,778,10,UPI / Wallet channel,Low
+TXN00599,CUST1146,2026-10-04T21:22:00,990.83,UPI,Bengaluru,20,694,10,UPI / Wallet channel,Low
+TXN00657,CUST1023,2026-10-12T11:30:00,978.46,UPI,Hyderabad,17,1905,10,UPI / Wallet channel,Low
+TXN00447,CUST1058,2026-10-12T03:58:00,949.43,UPI,Mumbai,20,1758,10,UPI / Wallet channel,Low
+TXN00081,CUST1114,2026-10-08T21:20:00,949.09,Wallet,Delhi,18,1483,10,UPI / Wallet channel,Low
+TXN00849,CUST1233,2026-10-27T17:45:00,948.7,UPI,Chennai,15,2290,10,UPI / Wallet channel,Low
+TXN00725,CUST1197,2026-10-23T20:28:00,938.0,UPI,Pune,10,348,10,UPI / Wallet channel,Low
+TXN00578,CUST1074,2026-10-11T17:04:00,936.66,UPI,Nagpur,13,756,10,UPI / Wallet channel,Low
+TXN00273,CUST1120,2026-10-19T00:41:00,934.22,UPI,Pune,19,1062,10,UPI / Wallet channel,Low
+TXN00195,CUST1199,2026-10-08T06:29:00,916.05,UPI,Mumbai,8,1141,10,UPI / Wallet channel,Low
+TXN00032,CUST1242,2026-10-31T18:19:00,907.5,UPI,Delhi,6,419,10,UPI / Wallet channel,Low
+TXN01198,CUST1080,2026-10-02T01:43:00,905.13,UPI,Mumbai,9,331,10,UPI / Wallet channel,Low
+TXN00016,CUST1174,2026-10-15T07:38:00,901.69,UPI,Bengaluru,19,66,10,UPI / Wallet channel,Low
+TXN00527,CUST1148,2026-10-29T17:38:00,900.67,UPI,Chennai,15,1860,10,UPI / Wallet channel,Low
+TXN00564,CUST1200,2026-10-19T17:28:00,899.15,UPI,Delhi,14,249,10,UPI / Wallet channel,Low
+TXN00009,CUST1072,2026-10-20T17:45:00,898.78,UPI,Nagpur,10,2246,10,UPI / Wallet channel,Low
+TXN00945,CUST1158,2026-10-19T03:56:00,898.42,UPI,Bengaluru,12,905,10,UPI / Wallet channel,Low
+TXN00975,CUST1170,2026-10-29T13:25:00,896.57,UPI,Chennai,14,2282,10,UPI / Wallet channel,Low
+TXN00726,CUST1150,2026-10-14T00:13:00,896.5,UPI,Chennai,16,460,10,UPI / Wallet channel,Low
+TXN00477,CUST1145,2026-10-25T07:02:00,884.67,UPI,Nagpur,13,225,10,UPI / Wallet channel,Low
+TXN00305,CUST1220,2026-10-08T17:37:00,872.35,Wallet,Bengaluru,14,1205,10,UPI / Wallet channel,Low
+TXN00062,CUST1012,2026-10-03T22:42:00,872.15,UPI,Chennai,18,2365,10,UPI / Wallet channel,Low
+TXN00675,CUST1240,2026-10-29T17:17:00,871.9,Wallet,Hyderabad,8,495,10,UPI / Wallet channel,Low
+TXN00221,CUST1066,2026-10-13T23:30:00,861.69,UPI,Mumbai,5,862,10,UPI / Wallet channel,Low
+TXN00230,CUST1133,2026-10-03T22:24:00,851.63,UPI,Bengaluru,15,808,10,UPI / Wallet channel,Low
+TXN00885,CUST1178,2026-10-22T17:52:00,844.94,UPI,Delhi,12,1683,10,UPI / Wallet channel,Low
+TXN00887,CUST1079,2026-10-29T11:29:00,842.35,UPI,Pune,13,430,10,UPI / Wallet channel,Low
+TXN00920,CUST1216,2026-10-13T20:50:00,817.26,Wallet,Chennai,10,2478,10,UPI / Wallet channel,Low
+TXN00203,CUST1187,2026-10-06T04:32:00,800.2,UPI,Bengaluru,22,595,10,UPI / Wallet channel,Low
+TXN00283,CUST1048,2026-10-20T12:15:00,794.0,UPI,Bengaluru,14,566,10,UPI / Wallet channel,Low
+TXN01064,CUST1170,2026-10-07T20:26:00,788.26,Wallet,Nagpur,9,1343,10,UPI / Wallet channel,Low
+TXN00526,CUST1170,2026-10-29T08:01:00,783.83,UPI,Pune,12,400,10,UPI / Wallet channel,Low
+TXN00850,CUST1134,2026-10-21T10:09:00,771.36,UPI,Nagpur,12,1273,10,UPI / Wallet channel,Low
+TXN00109,CUST1246,2026-10-26T11:10:00,769.92,Wallet,Pune,23,277,10,UPI / Wallet channel,Low
+TXN00775,CUST1191,2026-10-23T13:33:00,762.29,Wallet,Nagpur,12,2480,10,UPI / Wallet channel,Low
+TXN00259,CUST1236,2026-10-11T02:14:00,759.8,UPI,Delhi,11,1556,10,UPI / Wallet channel,Low
+TXN00792,CUST1168,2026-10-29T06:31:00,757.87,UPI,Hyderabad,7,111,10,UPI / Wallet channel,Low
+TXN00437,CUST1131,2026-10-18T04:47:00,750.44,UPI,Mumbai,18,2112,10,UPI / Wallet channel,Low
+TXN00995,CUST1142,2026-10-18T19:27:00,747.47,Wallet,Nagpur,17,527,10,UPI / Wallet channel,Low
+TXN00336,CUST1133,2026-10-27T08:47:00,727.33,UPI,Bengaluru,17,833,10,UPI / Wallet channel,Low
+TXN00438,CUST1224,2026-10-26T15:36:00,727.1,UPI,Bengaluru,16,1484,10,UPI / Wallet channel,Low
+TXN00355,CUST1188,2026-10-16T20:32:00,721.84,UPI,Mumbai,7,1888,10,UPI / Wallet channel,Low
+TXN00379,CUST1050,2026-10-19T14:01:00,717.94,UPI,Mumbai,7,572,10,UPI / Wallet channel,Low
+TXN00134,CUST1120,2026-10-02T12:08:00,712.94,UPI,Bengaluru,11,578,10,UPI / Wallet channel,Low
+TXN00286,CUST1001,2026-10-14T07:53:00,701.91,Wallet,Chennai,19,697,10,UPI / Wallet channel,Low
+TXN01164,CUST1236,2026-10-19T04:46:00,700.71,UPI,Hyderabad,16,1127,10,UPI / Wallet channel,Low
+TXN00830,CUST1165,2026-10-13T22:02:00,685.32,UPI,Hyderabad,11,2008,10,UPI / Wallet channel,Low
+TXN00027,CUST1082,2026-10-27T08:14:00,671.43,UPI,Hyderabad,13,2384,10,UPI / Wallet channel,Low
+TXN00179,CUST1164,2026-10-03T06:12:00,665.31,UPI,Nagpur,9,764,10,UPI / Wallet channel,Low
+TXN00753,CUST1003,2026-10-16T11:26:00,665.15,UPI,Pune,6,775,10,UPI / Wallet channel,Low
+TXN00506,CUST1221,2026-10-08T05:01:00,658.67,UPI,Nagpur,10,620,10,UPI / Wallet channel,Low
+TXN00613,CUST1149,2026-10-24T14:38:00,653.52,UPI,Bengaluru,10,1490,10,UPI / Wallet channel,Low
+TXN00655,CUST1197,2026-10-12T13:42:00,651.14,UPI,Bengaluru,17,2311,10,UPI / Wallet channel,Low
+TXN00116,CUST1225,2026-10-10T06:24:00,641.28,UPI,Bengaluru,16,2133,10,UPI / Wallet channel,Low
+TXN00619,CUST1138,2026-10-26T00:09:00,637.54,UPI,Hyderabad,19,943,10,UPI / Wallet channel,Low
+TXN00384,CUST1212,2026-10-02T07:35:00,637.43,UPI,Bengaluru,14,253,10,UPI / Wallet channel,Low
+TXN00057,CUST1229,2026-10-24T21:05:00,634.22,Wallet,Bengaluru,5,1680,10,UPI / Wallet channel,Low
+TXN00711,CUST1247,2026-10-28T07:43:00,632.25,UPI,Delhi,10,167,10,UPI / Wallet channel,Low
+TXN00843,CUST1201,2026-10-02T20:16:00,631.38,UPI,Mumbai,18,1778,10,UPI / Wallet channel,Low
+TXN00342,CUST1192,2026-10-12T03:35:00,627.64,UPI,Chennai,14,1240,10,UPI / Wallet channel,Low
+TXN00167,CUST1112,2026-10-28T05:58:00,621.03,UPI,Delhi,14,163,10,UPI / Wallet channel,Low
+TXN00946,CUST1243,2026-10-11T18:08:00,620.48,UPI,Chennai,7,711,10,UPI / Wallet channel,Low
+TXN00895,CUST1126,2026-10-16T04:41:00,606.73,UPI,Delhi,18,2143,10,UPI / Wallet channel,Low
+TXN00121,CUST1113,2026-10-28T07:15:00,605.85,UPI,Delhi,8,761,10,UPI / Wallet channel,Low
+TXN00162,CUST1235,2026-10-10T10:31:00,601.85,UPI,Bengaluru,23,2382,10,UPI / Wallet channel,Low
+TXN00135,CUST1011,2026-10-01T15:17:00,597.3,UPI,Pune,20,1512,10,UPI / Wallet channel,Low
+TXN00325,CUST1128,2026-10-16T22:53:00,596.28,UPI,Nagpur,23,1030,10,UPI / Wallet channel,Low
+TXN00345,CUST1055,2026-10-06T00:47:00,588.03,UPI,Delhi,16,2163,10,UPI / Wallet channel,Low
+TXN00704,CUST1083,2026-10-30T17:30:00,581.58,UPI,Chennai,5,2190,10,UPI / Wallet channel,Low
+TXN00172,CUST1039,2026-10-29T10:08:00,580.69,UPI,Delhi,13,640,10,UPI / Wallet channel,Low
+TXN00891,CUST1148,2026-10-29T10:06:00,561.85,UPI,Pune,6,1657,10,UPI / Wallet channel,Low
+TXN00637,CUST1096,2026-10-14T02:08:00,549.42,UPI,Hyderabad,21,1499,10,UPI / Wallet channel,Low
+TXN00396,CUST1153,2026-10-03T01:57:00,547.33,UPI,Hyderabad,9,2246,10,UPI / Wallet channel,Low
+TXN00354,CUST1167,2026-10-21T21:36:00,541.79,UPI,Pune,6,2468,10,UPI / Wallet channel,Low
+TXN00959,CUST1059,2026-10-21T12:20:00,528.43,UPI,Nagpur,21,687,10,UPI / Wallet channel,Low
+TXN00366,CUST1051,2026-10-02T14:28:00,524.22,UPI,Delhi,7,2445,10,UPI / Wallet channel,Low
+TXN00014,CUST1229,2026-10-10T02:26:00,518.99,UPI,Mumbai,9,592,10,UPI / Wallet channel,Low
+TXN00884,CUST1234,2026-10-08T08:05:00,500.65,Wallet,Pune,5,602,10,UPI / Wallet channel,Low
+TXN00986,CUST1119,2026-10-12T10:49:00,497.16,UPI,Bengaluru,8,1882,10,UPI / Wallet channel,Low
+TXN00800,CUST1044,2026-10-04T11:24:00,496.73,UPI,Bengaluru,18,2162,10,UPI / Wallet channel,Low
+TXN00836,CUST1193,2026-10-23T14:04:00,487.83,UPI,Mumbai,23,720,10,UPI / Wallet channel,Low
+TXN00671,CUST1014,2026-10-26T20:11:00,480.62,UPI,Mumbai,9,2010,10,UPI / Wallet channel,Low
+TXN00582,CUST1086,2026-10-30T11:56:00,480.18,UPI,Mumbai,11,577,10,UPI / Wallet channel,Low
+TXN00272,CUST1095,2026-10-04T22:41:00,475.47,UPI,Nagpur,8,377,10,UPI / Wallet channel,Low
+TXN00821,CUST1162,2026-10-24T02:47:00,475.45,Wallet,Chennai,8,923,10,UPI / Wallet channel,Low
+TXN00632,CUST1061,2026-10-27T09:51:00,471.99,Wallet,Bengaluru,7,1205,10,UPI / Wallet channel,Low
+TXN00199,CUST1105,2026-10-08T13:16:00,464.84,UPI,Nagpur,17,397,10,UPI / Wallet channel,Low
+TXN00256,CUST1233,2026-10-02T23:06:00,459.97,UPI,Mumbai,22,598,10,UPI / Wallet channel,Low
+TXN00909,CUST1138,2026-10-28T22:13:00,458.45,Wallet,Bengaluru,10,66,10,UPI / Wallet channel,Low
+TXN01097,CUST1024,2026-10-16T20:26:00,455.07,UPI,Delhi,22,532,10,UPI / Wallet channel,Low
+TXN01191,CUST1235,2026-10-11T23:06:00,441.42,UPI,Delhi,13,77,10,UPI / Wallet channel,Low
+TXN00046,CUST1210,2026-10-26T07:31:00,436.88,UPI,Hyderabad,20,627,10,UPI / Wallet channel,Low
+TXN01006,CUST1246,2026-10-28T09:14:00,408.72,UPI,Nagpur,9,212,10,UPI / Wallet channel,Low
+TXN00618,CUST1203,2026-10-14T14:46:00,405.72,UPI,Bengaluru,19,760,10,UPI / Wallet channel,Low
+TXN00061,CUST1200,2026-10-14T19:13:00,397.49,Wallet,Mumbai,17,431,10,UPI / Wallet channel,Low
+TXN00472,CUST1102,2026-10-18T12:42:00,384.77,Wallet,Mumbai,19,1137,10,UPI / Wallet channel,Low
+TXN00713,CUST1045,2026-10-09T07:02:00,381.3,UPI,Hyderabad,20,338,10,UPI / Wallet channel,Low
+TXN01175,CUST1023,2026-10-18T01:21:00,372.69,UPI,Delhi,18,1013,10,UPI / Wallet channel,Low
+TXN00588,CUST1118,2026-10-10T21:27:00,366.74,UPI,Chennai,18,1203,10,UPI / Wallet channel,Low
+TXN00475,CUST1099,2026-10-10T14:06:00,364.59,UPI,Pune,7,720,10,UPI / Wallet channel,Low
+TXN00029,CUST1164,2026-10-30T02:26:00,362.41,UPI,Pune,15,617,10,UPI / Wallet channel,Low
+TXN00443,CUST1012,2026-10-29T21:12:00,361.99,UPI,Chennai,21,489,10,UPI / Wallet channel,Low
+TXN00277,CUST1124,2026-10-01T17:36:00,359.93,Wallet,Nagpur,12,918,10,UPI / Wallet channel,Low
+TXN00395,CUST1088,2026-10-23T20:38:00,351.32,UPI,Chennai,15,822,10,UPI / Wallet channel,Low
+TXN00911,CUST1041,2026-10-18T20:10:00,350.59,UPI,Nagpur,17,2148,10,UPI / Wallet channel,Low
+TXN00383,CUST1192,2026-10-25T21:19:00,349.66,UPI,Pune,6,1675,10,UPI / Wallet channel,Low
+TXN00758,CUST1068,2026-10-11T13:09:00,343.79,UPI,Bengaluru,6,61,10,UPI / Wallet channel,Low
+TXN00398,CUST1234,2026-10-12T10:02:00,341.57,UPI,Bengaluru,22,2191,10,UPI / Wallet channel,Low
+TXN01047,CUST1178,2026-10-07T08:17:00,329.13,UPI,Pune,13,62,10,UPI / Wallet channel,Low
+TXN00686,CUST1234,2026-10-12T08:51:00,327.65,UPI,Mumbai,16,715,10,UPI / Wallet channel,Low
+TXN00459,CUST1000,2026-10-27T21:05:00,323.62,UPI,Mumbai,8,888,10,UPI / Wallet channel,Low
+TXN00413,CUST1016,2026-10-24T02:54:00,310.54,UPI,Chennai,14,2382,10,UPI / Wallet channel,Low
+TXN00690,CUST1145,2026-10-31T23:17:00,308.84,UPI,Nagpur,11,517,10,UPI / Wallet channel,Low
+TXN00169,CUST1221,2026-10-11T04:19:00,301.05,Wallet,Delhi,7,195,10,UPI / Wallet channel,Low
+TXN00608,CUST1134,2026-10-02T16:27:00,299.76,UPI,Nagpur,12,1650,10,UPI / Wallet channel,Low
+TXN00523,CUST1055,2026-10-31T16:41:00,297.22,Wallet,Mumbai,15,2085,10,UPI / Wallet channel,Low
+TXN00117,CUST1221,2026-10-22T01:24:00,286.24,UPI,Bengaluru,10,1378,10,UPI / Wallet channel,Low
+TXN00721,CUST1231,2026-10-17T05:13:00,277.82,UPI,Nagpur,12,1684,10,UPI / Wallet channel,Low
+TXN00331,CUST1065,2026-10-24T06:35:00,276.87,UPI,Bengaluru,17,1708,10,UPI / Wallet channel,Low
+TXN00415,CUST1206,2026-10-23T19:35:00,274.31,UPI,Pune,19,788,10,UPI / Wallet channel,Low
+TXN01030,CUST1202,2026-10-28T06:08:00,273.39,UPI,Mumbai,23,2166,10,UPI / Wallet channel,Low
+TXN00793,CUST1122,2026-10-23T17:53:00,261.19,UPI,Hyderabad,21,1240,10,UPI / Wallet channel,Low
+TXN00551,CUST1011,2026-10-10T23:01:00,259.76,UPI,Chennai,9,2255,10,UPI / Wallet channel,Low
+TXN00086,CUST1119,2026-10-15T16:45:00,253.23,UPI,Pune,5,799,10,UPI / Wallet channel,Low
+TXN01184,CUST1043,2026-10-10T15:40:00,245.92,UPI,Mumbai,15,189,10,UPI / Wallet channel,Low
+TXN00428,CUST1133,2026-10-29T21:21:00,228.65,UPI,Hyderabad,19,1394,10,UPI / Wallet channel,Low
+TXN01111,CUST1088,2026-10-20T07:05:00,225.3,UPI,Nagpur,23,1101,10,UPI / Wallet channel,Low
+TXN00226,CUST1117,2026-10-04T23:16:00,209.28,UPI,Chennai,11,958,10,UPI / Wallet channel,Low
+TXN00129,CUST1129,2026-10-02T11:21:00,202.69,UPI,Mumbai,13,666,10,UPI / Wallet channel,Low
+TXN00311,CUST1112,2026-10-10T14:58:00,201.78,UPI,Hyderabad,22,316,10,UPI / Wallet channel,Low
+TXN00290,CUST1108,2026-10-15T20:41:00,198.36,UPI,Delhi,17,480,10,UPI / Wallet channel,Low
+TXN00938,CUST1032,2026-10-29T10:12:00,123.64,UPI,Delhi,21,133,10,UPI / Wallet channel,Low
+TXN01042,CUST1025,2026-10-01T17:37:00,97.64,Wallet,Chennai,5,1965,10,UPI / Wallet channel,Low
+TXN00603,CUST1050,2026-10-30T22:12:00,26361.53,Card,Chennai,11,1298,0,No configured risk indicators,Low
+TXN00047,CUST1036,2026-10-10T21:07:00,22349.53,Card,Mumbai,21,901,0,No configured risk indicators,Low
+TXN00871,CUST1150,2026-10-22T17:41:00,21412.41,Card,Delhi,14,1903,0,No configured risk indicators,Low
+TXN00625,CUST1069,2026-10-19T16:23:00,20599.1,Card,Nagpur,10,1165,0,No configured risk indicators,Low
+TXN00323,CUST1136,2026-10-30T18:55:00,20508.86,NetBanking,Delhi,18,1165,0,No configured risk indicators,Low
+TXN00089,CUST1221,2026-10-27T08:34:00,16948.02,Card,Hyderabad,23,1400,0,No configured risk indicators,Low
+TXN00549,CUST1190,2026-10-29T19:50:00,13681.43,NetBanking,Pune,5,2050,0,No configured risk indicators,Low
+TXN00246,CUST1130,2026-10-28T23:49:00,13080.27,Card,Pune,23,110,0,No configured risk indicators,Low
+TXN01188,CUST1061,2026-10-10T22:35:00,12171.05,NetBanking,Mumbai,19,488,0,No configured risk indicators,Low
+TXN00441,CUST1058,2026-10-08T00:02:00,10896.49,Card,Chennai,22,2464,0,No configured risk indicators,Low
+TXN00662,CUST1095,2026-10-23T15:19:00,10096.04,NetBanking,Pune,18,1888,0,No configured risk indicators,Low
+TXN01071,CUST1002,2026-10-17T18:11:00,10057.04,Card,Nagpur,9,2301,0,No configured risk indicators,Low
+TXN00219,CUST1053,2026-10-13T20:34:00,9551.33,Card,Delhi,11,77,0,No configured risk indicators,Low
+TXN00170,CUST1090,2026-10-05T02:01:00,8901.34,Card,Hyderabad,12,1329,0,No configured risk indicators,Low
+TXN00781,CUST1006,2026-10-25T01:40:00,8601.61,NetBanking,Delhi,17,573,0,No configured risk indicators,Low
+TXN00497,CUST1247,2026-10-03T12:48:00,8579.49,Card,Mumbai,17,567,0,No configured risk indicators,Low
+TXN01115,CUST1162,2026-10-30T10:21:00,7848.54,NetBanking,Chennai,7,2467,0,No configured risk indicators,Low
+TXN00142,CUST1059,2026-10-04T21:45:00,7755.02,NetBanking,Nagpur,16,799,0,No configured risk indicators,Low
+TXN01131,CUST1238,2026-10-16T13:45:00,7653.68,Card,Delhi,9,2417,0,No configured risk indicators,Low
+TXN01081,CUST1056,2026-10-19T07:23:00,7605.49,Card,Chennai,22,1987,0,No configured risk indicators,Low
+TXN00367,CUST1022,2026-10-01T06:14:00,6844.47,Card,Delhi,23,124,0,No configured risk indicators,Low
+TXN00939,CUST1206,2026-10-13T18:14:00,6814.0,NetBanking,Chennai,11,1493,0,No configured risk indicators,Low
+TXN00778,CUST1248,2026-10-24T02:03:00,6374.26,Card,Nagpur,17,1359,0,No configured risk indicators,Low
+TXN00266,CUST1075,2026-10-11T18:40:00,6127.02,NetBanking,Hyderabad,18,1598,0,No configured risk indicators,Low
+TXN01066,CUST1142,2026-10-02T07:47:00,5973.97,Card,Pune,12,847,0,No configured risk indicators,Low
+TXN00151,CUST1053,2026-10-28T06:43:00,5967.0,NetBanking,Chennai,22,616,0,No configured risk indicators,Low
+TXN00535,CUST1027,2026-10-24T12:04:00,5880.9,Card,Nagpur,9,1339,0,No configured risk indicators,Low
+TXN00744,CUST1063,2026-10-10T03:31:00,5850.74,Card,Chennai,12,2405,0,No configured risk indicators,Low
+TXN00948,CUST1087,2026-10-02T06:37:00,5833.35,Card,Hyderabad,9,225,0,No configured risk indicators,Low
+TXN00499,CUST1029,2026-10-20T20:06:00,5726.52,Card,Mumbai,14,1522,0,No configured risk indicators,Low
+TXN00078,CUST1203,2026-10-23T18:33:00,5531.57,NetBanking,Hyderabad,12,1578,0,No configured risk indicators,Low
+TXN00714,CUST1016,2026-10-16T08:30:00,5526.64,Card,Bengaluru,8,610,0,No configured risk indicators,Low
+TXN01022,CUST1059,2026-10-23T07:21:00,5475.09,NetBanking,Chennai,22,1673,0,No configured risk indicators,Low
+TXN00107,CUST1225,2026-10-09T19:50:00,5445.62,NetBanking,Hyderabad,21,1630,0,No configured risk indicators,Low
+TXN00565,CUST1246,2026-10-11T13:47:00,5407.98,Card,Pune,15,1402,0,No configured risk indicators,Low
+TXN00639,CUST1097,2026-10-24T02:56:00,5377.2,NetBanking,Chennai,9,2480,0,No configured risk indicators,Low
+TXN01181,CUST1015,2026-10-21T02:46:00,5218.42,Card,Pune,9,1525,0,No configured risk indicators,Low
+TXN00208,CUST1134,2026-10-24T06:11:00,5216.59,NetBanking,Pune,9,651,0,No configured risk indicators,Low
+TXN00996,CUST1143,2026-10-01T07:01:00,5151.96,NetBanking,Bengaluru,11,1072,0,No configured risk indicators,Low
+TXN01142,CUST1105,2026-10-01T13:23:00,5063.66,Card,Mumbai,17,529,0,No configured risk indicators,Low
+TXN00005,CUST1048,2026-10-16T10:21:00,4916.18,NetBanking,Chennai,10,1902,0,No configured risk indicators,Low
+TXN00333,CUST1075,2026-10-08T11:43:00,4912.59,NetBanking,Hyderabad,9,569,0,No configured risk indicators,Low
+TXN01154,CUST1120,2026-10-08T15:37:00,4911.45,NetBanking,Mumbai,13,123,0,No configured risk indicators,Low
+TXN00289,CUST1022,2026-10-11T11:45:00,4772.66,NetBanking,Hyderabad,21,1921,0,No configured risk indicators,Low
+TXN00534,CUST1070,2026-10-24T02:46:00,4723.79,Card,Pune,23,2074,0,No configured risk indicators,Low
+TXN00301,CUST1228,2026-10-25T00:04:00,4687.17,NetBanking,Bengaluru,20,2402,0,No configured risk indicators,Low
+TXN01053,CUST1068,2026-10-18T07:03:00,4444.19,Card,Mumbai,13,1384,0,No configured risk indicators,Low
+TXN00862,CUST1044,2026-10-11T07:09:00,4440.32,Card,Mumbai,21,755,0,No configured risk indicators,Low
+TXN00454,CUST1081,2026-10-09T20:12:00,4365.96,Card,Delhi,7,1253,0,No configured risk indicators,Low
+TXN00815,CUST1075,2026-10-26T14:35:00,4348.97,Card,Hyderabad,15,1258,0,No configured risk indicators,Low
+TXN00066,CUST1198,2026-10-12T06:57:00,4279.64,NetBanking,Nagpur,16,2246,0,No configured risk indicators,Low
+TXN01099,CUST1150,2026-10-31T01:29:00,4264.26,Card,Chennai,6,1601,0,No configured risk indicators,Low
+TXN00872,CUST1160,2026-10-31T23:47:00,4246.19,Card,Nagpur,20,281,0,No configured risk indicators,Low
+TXN00473,CUST1099,2026-10-18T12:43:00,4164.96,NetBanking,Delhi,18,1727,0,No configured risk indicators,Low
+TXN01018,CUST1032,2026-10-04T01:09:00,4120.72,NetBanking,Bengaluru,16,503,0,No configured risk indicators,Low
+TXN00746,CUST1122,2026-10-29T11:35:00,4119.84,Card,Nagpur,21,327,0,No configured risk indicators,Low
+TXN00943,CUST1190,2026-10-09T17:46:00,4083.42,Card,Chennai,13,2355,0,No configured risk indicators,Low
+TXN01157,CUST1003,2026-10-08T20:06:00,4079.78,NetBanking,Delhi,13,232,0,No configured risk indicators,Low
+TXN00638,CUST1156,2026-10-13T10:51:00,4036.48,NetBanking,Delhi,6,193,0,No configured risk indicators,Low
+TXN01114,CUST1115,2026-10-14T07:28:00,4018.33,NetBanking,Delhi,23,952,0,No configured risk indicators,Low
+TXN01148,CUST1200,2026-10-26T04:43:00,3934.23,NetBanking,Nagpur,20,1242,0,No configured risk indicators,Low
+TXN00510,CUST1056,2026-10-02T02:56:00,3915.99,Card,Nagpur,9,1031,0,No configured risk indicators,Low
+TXN00012,CUST1141,2026-10-18T03:51:00,3910.62,NetBanking,Nagpur,16,1417,0,No configured risk indicators,Low
+TXN00211,CUST1112,2026-10-06T16:37:00,3890.88,Card,Mumbai,20,457,0,No configured risk indicators,Low
+TXN00491,CUST1163,2026-10-20T00:14:00,3861.9,Card,Pune,12,1097,0,No configured risk indicators,Low
+TXN00332,CUST1100,2026-10-29T22:06:00,3787.17,Card,Mumbai,23,1321,0,No configured risk indicators,Low
+TXN00988,CUST1033,2026-10-15T02:21:00,3768.77,Card,Mumbai,13,2429,0,No configured risk indicators,Low
+TXN00964,CUST1148,2026-10-06T20:25:00,3704.99,NetBanking,Chennai,5,676,0,No configured risk indicators,Low
+TXN00731,CUST1171,2026-10-14T15:16:00,3661.75,Card,Pune,5,841,0,No configured risk indicators,Low
+TXN01120,CUST1052,2026-10-31T00:36:00,3650.82,Card,Chennai,9,2098,0,No configured risk indicators,Low
+TXN00817,CUST1197,2026-10-24T02:07:00,3634.2,Card,Mumbai,14,1660,0,No configured risk indicators,Low
+TXN00841,CUST1048,2026-10-14T01:13:00,3575.4,Card,Chennai,10,169,0,No configured risk indicators,Low
+TXN00741,CUST1001,2026-10-02T03:26:00,3566.13,Card,Hyderabad,11,142,0,No configured risk indicators,Low
+TXN01096,CUST1072,2026-10-23T08:23:00,3560.44,Card,Nagpur,18,2296,0,No configured risk indicators,Low
+TXN00605,CUST1231,2026-10-23T14:53:00,3557.58,Card,Mumbai,15,2159,0,No configured risk indicators,Low
+TXN00646,CUST1193,2026-10-28T10:33:00,3557.39,Card,Delhi,6,2090,0,No configured risk indicators,Low
+TXN01101,CUST1089,2026-10-31T18:51:00,3530.54,Card,Chennai,5,1482,0,No configured risk indicators,Low
+TXN01008,CUST1130,2026-10-01T11:27:00,3512.13,Card,Delhi,21,341,0,No configured risk indicators,Low
+TXN00846,CUST1137,2026-10-03T05:15:00,3503.48,NetBanking,Mumbai,15,571,0,No configured risk indicators,Low
+TXN00159,CUST1117,2026-10-04T23:12:00,3456.21,Card,Delhi,23,152,0,No configured risk indicators,Low
+TXN00504,CUST1088,2026-10-20T22:30:00,3439.71,NetBanking,Hyderabad,5,1162,0,No configured risk indicators,Low
+TXN00261,CUST1042,2026-10-24T15:41:00,3435.73,Card,Delhi,19,2257,0,No configured risk indicators,Low
+TXN00285,CUST1035,2026-10-31T23:25:00,3388.73,NetBanking,Delhi,23,1925,0,No configured risk indicators,Low
+TXN00528,CUST1063,2026-10-15T13:02:00,3386.98,Card,Nagpur,13,715,0,No configured risk indicators,Low
+TXN00235,CUST1082,2026-10-31T15:21:00,3348.46,NetBanking,Mumbai,10,2341,0,No configured risk indicators,Low
+TXN00833,CUST1068,2026-10-14T22:05:00,3335.4,NetBanking,Bengaluru,22,1736,0,No configured risk indicators,Low
+TXN00610,CUST1086,2026-10-05T18:43:00,3307.39,Card,Hyderabad,20,862,0,No configured risk indicators,Low
+TXN00003,CUST1110,2026-10-03T20:32:00,3294.51,NetBanking,Pune,18,1368,0,No configured risk indicators,Low
+TXN00380,CUST1008,2026-10-24T23:48:00,3292.38,Card,Mumbai,23,1265,0,No configured risk indicators,Low
+TXN00427,CUST1188,2026-10-13T02:03:00,3211.56,NetBanking,Pune,14,1732,0,No configured risk indicators,Low
+TXN00806,CUST1183,2026-10-03T15:04:00,3202.79,NetBanking,Chennai,7,753,0,No configured risk indicators,Low
+TXN00801,CUST1212,2026-10-24T02:52:00,3133.94,Card,Hyderabad,18,2170,0,No configured risk indicators,Low
+TXN00990,CUST1064,2026-10-29T19:30:00,3115.0,Card,Hyderabad,21,838,0,No configured risk indicators,Low
+TXN00274,CUST1084,2026-10-12T04:26:00,3105.03,NetBanking,Delhi,17,1126,0,No configured risk indicators,Low
+TXN01112,CUST1005,2026-10-06T11:53:00,3103.6,Card,Mumbai,10,2097,0,No configured risk indicators,Low
+TXN00509,CUST1079,2026-10-13T20:40:00,3005.04,Card,Bengaluru,23,544,0,No configured risk indicators,Low
+TXN01027,CUST1087,2026-10-26T06:34:00,3000.76,Card,Bengaluru,22,1612,0,No configured risk indicators,Low
+TXN00449,CUST1037,2026-10-02T12:51:00,2968.32,NetBanking,Pune,18,1091,0,No configured risk indicators,Low
+TXN01039,CUST1137,2026-10-29T04:15:00,2960.22,Card,Bengaluru,19,1558,0,No configured risk indicators,Low
+TXN00008,CUST1024,2026-10-10T16:24:00,2938.14,NetBanking,Chennai,5,1098,0,No configured risk indicators,Low
+TXN00181,CUST1187,2026-10-15T00:56:00,2889.34,NetBanking,Hyderabad,23,1868,0,No configured risk indicators,Low
+TXN00580,CUST1202,2026-10-10T13:42:00,2876.7,NetBanking,Pune,6,102,0,No configured risk indicators,Low
+TXN01017,CUST1137,2026-10-30T20:56:00,2861.43,NetBanking,Pune,14,2224,0,No configured risk indicators,Low
+TXN00088,CUST1132,2026-10-20T09:45:00,2856.22,Card,Delhi,15,1970,0,No configured risk indicators,Low
+TXN00703,CUST1044,2026-10-10T23:32:00,2784.98,Card,Delhi,19,2080,0,No configured risk indicators,Low
+TXN00436,CUST1071,2026-10-25T11:56:00,2778.96,Card,Bengaluru,13,1646,0,No configured risk indicators,Low
+TXN01029,CUST1021,2026-10-27T17:18:00,2769.29,Card,Hyderabad,16,2179,0,No configured risk indicators,Low
+TXN01093,CUST1065,2026-10-26T23:16:00,2728.43,Card,Pune,7,741,0,No configured risk indicators,Low
+TXN00910,CUST1168,2026-10-01T16:57:00,2712.15,Card,Chennai,15,2155,0,No configured risk indicators,Low
+TXN00972,CUST1033,2026-10-02T23:16:00,2705.16,Card,Delhi,22,453,0,No configured risk indicators,Low
+TXN00102,CUST1107,2026-10-29T04:42:00,2699.66,NetBanking,Hyderabad,20,1923,0,No configured risk indicators,Low
+TXN00601,CUST1040,2026-10-23T11:58:00,2693.4,NetBanking,Mumbai,12,40,0,No configured risk indicators,Low
+TXN00363,CUST1190,2026-10-24T20:38:00,2672.56,Card,Mumbai,7,625,0,No configured risk indicators,Low
+TXN00611,CUST1231,2026-10-23T13:05:00,2658.12,NetBanking,Mumbai,16,1733,0,No configured risk indicators,Low
+TXN01132,CUST1098,2026-10-14T10:17:00,2641.51,NetBanking,Chennai,11,1933,0,No configured risk indicators,Low
+TXN00423,CUST1033,2026-10-30T23:32:00,2604.6,Card,Chennai,19,1440,0,No configured risk indicators,Low
+TXN00318,CUST1220,2026-10-03T09:50:00,2580.98,Card,Pune,5,832,0,No configured risk indicators,Low
+TXN00609,CUST1196,2026-10-03T00:09:00,2538.15,Card,Delhi,14,169,0,No configured risk indicators,Low
+TXN00487,CUST1176,2026-10-31T16:26:00,2531.78,Card,Delhi,19,649,0,No configured risk indicators,Low
+TXN00330,CUST1089,2026-10-31T23:07:00,2513.25,NetBanking,Chennai,5,1255,0,No configured risk indicators,Low
+TXN00248,CUST1176,2026-10-13T07:32:00,2488.81,NetBanking,Nagpur,20,1341,0,No configured risk indicators,Low
+TXN00053,CUST1194,2026-10-20T02:30:00,2462.61,NetBanking,Chennai,5,1452,0,No configured risk indicators,Low
+TXN00417,CUST1072,2026-10-01T01:09:00,2445.48,Card,Mumbai,16,2371,0,No configured risk indicators,Low
+TXN00642,CUST1110,2026-10-30T00:02:00,2445.04,Card,Delhi,10,333,0,No configured risk indicators,Low
+TXN00058,CUST1138,2026-10-17T12:20:00,2428.86,Card,Chennai,7,2122,0,No configured risk indicators,Low
+TXN00348,CUST1016,2026-10-27T08:14:00,2420.94,Card,Delhi,23,2427,0,No configured risk indicators,Low
+TXN00094,CUST1188,2026-10-13T00:33:00,2419.69,Card,Bengaluru,23,784,0,No configured risk indicators,Low
+TXN00216,CUST1211,2026-10-03T01:09:00,2382.07,Card,Delhi,6,793,0,No configured risk indicators,Low
+TXN00064,CUST1211,2026-10-04T17:04:00,2374.4,Card,Hyderabad,18,1235,0,No configured risk indicators,Low
+TXN00818,CUST1018,2026-10-20T22:57:00,2322.44,Card,Hyderabad,23,1924,0,No configured risk indicators,Low
+TXN00765,CUST1054,2026-10-28T23:33:00,2312.07,NetBanking,Delhi,22,2493,0,No configured risk indicators,Low
+TXN00951,CUST1207,2026-10-28T02:59:00,2302.56,Card,Pune,7,680,0,No configured risk indicators,Low
+TXN00574,CUST1047,2026-10-05T07:25:00,2287.22,NetBanking,Hyderabad,7,2031,0,No configured risk indicators,Low
+TXN00998,CUST1133,2026-10-17T23:45:00,2286.07,NetBanking,Bengaluru,11,177,0,No configured risk indicators,Low
+TXN01010,CUST1171,2026-10-12T05:05:00,2256.18,Card,Pune,21,2082,0,No configured risk indicators,Low
+TXN00024,CUST1074,2026-10-29T16:17:00,2255.63,Card,Pune,7,267,0,No configured risk indicators,Low
+TXN01108,CUST1134,2026-10-14T12:39:00,2249.3,Card,Pune,5,1338,0,No configured risk indicators,Low
+TXN00050,CUST1134,2026-10-02T08:20:00,2245.27,NetBanking,Chennai,9,1266,0,No configured risk indicators,Low
+TXN00718,CUST1150,2026-10-15T21:08:00,2244.37,Card,Delhi,21,2367,0,No configured risk indicators,Low
+TXN01021,CUST1223,2026-10-16T03:45:00,2182.58,Card,Chennai,14,1918,0,No configured risk indicators,Low
+TXN00834,CUST1009,2026-10-04T10:51:00,2179.02,Card,Nagpur,7,710,0,No configured risk indicators,Low
+TXN00026,CUST1110,2026-10-30T01:44:00,2169.31,Card,Mumbai,11,215,0,No configured risk indicators,Low
+TXN00807,CUST1183,2026-10-02T11:11:00,2165.2,NetBanking,Nagpur,23,1032,0,No configured risk indicators,Low
+TXN00280,CUST1178,2026-10-07T23:31:00,2161.27,NetBanking,Nagpur,9,1384,0,No configured risk indicators,Low
+TXN00435,CUST1012,2026-10-27T08:46:00,2160.12,Card,Hyderabad,8,154,0,No configured risk indicators,Low
+TXN00896,CUST1116,2026-10-20T12:21:00,2158.91,NetBanking,Pune,14,2299,0,No configured risk indicators,Low
+TXN00001,CUST1174,2026-10-17T07:42:00,2152.2,NetBanking,Hyderabad,15,224,0,No configured risk indicators,Low
+TXN00761,CUST1127,2026-10-16T10:17:00,2151.1,Card,Nagpur,12,1769,0,No configured risk indicators,Low
+TXN00829,CUST1053,2026-10-27T07:29:00,2144.46,NetBanking,Chennai,13,488,0,No configured risk indicators,Low
+TXN00729,CUST1154,2026-10-21T19:45:00,2111.38,Card,Chennai,21,65,0,No configured risk indicators,Low
+TXN01061,CUST1018,2026-10-10T17:15:00,2090.79,Card,Pune,5,221,0,No configured risk indicators,Low
+TXN00673,CUST1122,2026-10-20T04:03:00,2081.82,NetBanking,Nagpur,15,894,0,No configured risk indicators,Low
+TXN01183,CUST1051,2026-10-23T19:30:00,2047.25,NetBanking,Mumbai,15,1489,0,No configured risk indicators,Low
+TXN00411,CUST1248,2026-10-13T03:46:00,2042.67,NetBanking,Pune,7,1548,0,No configured risk indicators,Low
+TXN01014,CUST1041,2026-10-24T05:36:00,2041.93,Card,Mumbai,21,272,0,No configured risk indicators,Low
+TXN00114,CUST1110,2026-10-01T03:20:00,2033.43,Card,Chennai,19,593,0,No configured risk indicators,Low
+TXN00292,CUST1242,2026-10-04T00:45:00,2027.87,Card,Mumbai,9,622,0,No configured risk indicators,Low
+TXN00282,CUST1107,2026-10-11T16:24:00,2024.87,Card,Nagpur,7,677,0,No configured risk indicators,Low
+TXN00699,CUST1086,2026-10-03T00:31:00,2021.83,NetBanking,Delhi,11,445,0,No configured risk indicators,Low
+TXN00113,CUST1216,2026-10-13T04:43:00,2021.81,NetBanking,Pune,18,30,0,No configured risk indicators,Low
+TXN00532,CUST1035,2026-10-10T14:18:00,2001.92,NetBanking,Delhi,13,1529,0,No configured risk indicators,Low
+TXN01095,CUST1153,2026-10-13T07:17:00,2001.2,Card,Mumbai,18,671,0,No configured risk indicators,Low
+TXN00344,CUST1216,2026-10-15T17:25:00,1957.99,Card,Hyderabad,14,2028,0,No configured risk indicators,Low
+TXN00381,CUST1108,2026-10-23T03:25:00,1950.02,NetBanking,Nagpur,17,432,0,No configured risk indicators,Low
+TXN00974,CUST1092,2026-10-20T14:37:00,1937.72,Card,Hyderabad,19,362,0,No configured risk indicators,Low
+TXN00539,CUST1094,2026-10-12T17:12:00,1931.26,Card,Chennai,20,1604,0,No configured risk indicators,Low
+TXN00697,CUST1118,2026-10-09T18:56:00,1929.48,Card,Nagpur,16,84,0,No configured risk indicators,Low
+TXN00496,CUST1113,2026-10-12T22:44:00,1923.08,Card,Delhi,5,1720,0,No configured risk indicators,Low
+TXN00120,CUST1025,2026-10-12T07:50:00,1896.85,Card,Hyderabad,14,2289,0,No configured risk indicators,Low
+TXN01189,CUST1034,2026-10-31T21:11:00,1894.6,Card,Hyderabad,11,118,0,No configured risk indicators,Low
+TXN00838,CUST1119,2026-10-31T07:15:00,1870.3,Card,Delhi,16,1201,0,No configured risk indicators,Low
+TXN01062,CUST1242,2026-10-22T12:37:00,1866.11,Card,Mumbai,7,397,0,No configured risk indicators,Low
+TXN00298,CUST1026,2026-10-23T13:54:00,1865.61,NetBanking,Pune,14,329,0,No configured risk indicators,Low
+TXN00554,CUST1001,2026-10-14T23:45:00,1854.19,Card,Pune,22,645,0,No configured risk indicators,Low
+TXN01165,CUST1061,2026-10-23T05:22:00,1832.9,NetBanking,Nagpur,22,471,0,No configured risk indicators,Low
+TXN00615,CUST1172,2026-10-20T20:05:00,1830.29,NetBanking,Bengaluru,6,102,0,No configured risk indicators,Low
+TXN00457,CUST1206,2026-10-05T21:56:00,1828.71,NetBanking,Hyderabad,15,1194,0,No configured risk indicators,Low
+TXN00269,CUST1186,2026-10-23T16:56:00,1805.4,Card,Delhi,9,292,0,No configured risk indicators,Low
+TXN00315,CUST1193,2026-10-13T16:32:00,1786.2,Card,Nagpur,12,221,0,No configured risk indicators,Low
+TXN00738,CUST1189,2026-10-22T23:41:00,1777.49,Card,Bengaluru,12,60,0,No configured risk indicators,Low
+TXN00890,CUST1113,2026-10-01T05:07:00,1768.45,NetBanking,Hyderabad,7,482,0,No configured risk indicators,Low
+TXN00405,CUST1009,2026-10-22T23:28:00,1767.63,NetBanking,Nagpur,14,121,0,No configured risk indicators,Low
+TXN00819,CUST1182,2026-10-13T12:16:00,1725.35,Card,Delhi,20,2427,0,No configured risk indicators,Low
+TXN00940,CUST1141,2026-10-23T16:09:00,1706.1,Card,Chennai,9,1447,0,No configured risk indicators,Low
+TXN00147,CUST1099,2026-10-17T12:17:00,1694.29,Card,Pune,14,1317,0,No configured risk indicators,Low
+TXN00178,CUST1038,2026-10-29T13:51:00,1687.75,Card,Hyderabad,10,389,0,No configured risk indicators,Low
+TXN01129,CUST1094,2026-10-18T09:44:00,1687.06,Card,Hyderabad,11,2170,0,No configured risk indicators,Low
+TXN00152,CUST1163,2026-10-23T15:57:00,1679.41,Card,Pune,17,953,0,No configured risk indicators,Low
+TXN00069,CUST1237,2026-10-09T09:35:00,1652.89,Card,Chennai,15,2117,0,No configured risk indicators,Low
+TXN00525,CUST1036,2026-10-25T15:55:00,1633.16,NetBanking,Delhi,22,477,0,No configured risk indicators,Low
+TXN00476,CUST1016,2026-10-11T13:59:00,1624.88,NetBanking,Mumbai,13,1185,0,No configured risk indicators,Low
+TXN01043,CUST1145,2026-10-14T19:55:00,1624.38,NetBanking,Mumbai,10,2105,0,No configured risk indicators,Low
+TXN01028,CUST1091,2026-10-02T03:56:00,1623.3,Card,Nagpur,19,614,0,No configured risk indicators,Low
+TXN00132,CUST1102,2026-10-14T08:54:00,1618.29,Card,Mumbai,20,1275,0,No configured risk indicators,Low
+TXN00486,CUST1138,2026-10-09T10:24:00,1606.94,Card,Pune,21,753,0,No configured risk indicators,Low
+TXN00498,CUST1084,2026-10-31T22:40:00,1598.67,Card,Nagpur,13,889,0,No configured risk indicators,Low
+TXN00316,CUST1176,2026-10-11T17:28:00,1591.21,Card,Hyderabad,21,1310,0,No configured risk indicators,Low
+TXN00541,CUST1094,2026-10-21T20:42:00,1588.86,Card,Delhi,7,2245,0,No configured risk indicators,Low
+TXN01067,CUST1027,2026-10-22T04:00:00,1582.82,Card,Chennai,12,1618,0,No configured risk indicators,Low
+TXN01122,CUST1191,2026-10-09T15:28:00,1573.96,NetBanking,Mumbai,23,1992,0,No configured risk indicators,Low
+TXN01187,CUST1063,2026-10-25T11:46:00,1573.68,NetBanking,Mumbai,7,2337,0,No configured risk indicators,Low
+TXN00977,CUST1035,2026-10-20T11:48:00,1553.38,NetBanking,Chennai,6,2051,0,No configured risk indicators,Low
+TXN00589,CUST1011,2026-10-07T09:11:00,1546.16,Card,Chennai,20,845,0,No configured risk indicators,Low
+TXN00106,CUST1178,2026-10-31T10:27:00,1538.89,Card,Bengaluru,14,702,0,No configured risk indicators,Low
+TXN00481,CUST1117,2026-10-10T15:25:00,1511.54,Card,Nagpur,17,64,0,No configured risk indicators,Low
+TXN00404,CUST1231,2026-10-19T23:39:00,1497.77,NetBanking,Mumbai,18,1811,0,No configured risk indicators,Low
+TXN00740,CUST1019,2026-10-13T21:15:00,1496.24,Card,Mumbai,11,87,0,No configured risk indicators,Low
+TXN01140,CUST1115,2026-10-05T19:42:00,1495.39,NetBanking,Bengaluru,7,1506,0,No configured risk indicators,Low
+TXN00054,CUST1208,2026-10-15T08:19:00,1490.49,Card,Nagpur,18,1344,0,No configured risk indicators,Low
+TXN01052,CUST1191,2026-10-05T03:27:00,1488.48,Card,Hyderabad,11,1592,0,No configured risk indicators,Low
+TXN00183,CUST1127,2026-10-11T05:50:00,1482.14,Card,Hyderabad,21,1478,0,No configured risk indicators,Low
+TXN00583,CUST1160,2026-10-18T15:08:00,1474.06,Card,Chennai,22,441,0,No configured risk indicators,Low
+TXN01049,CUST1021,2026-10-27T07:04:00,1455.58,NetBanking,Delhi,11,2402,0,No configured risk indicators,Low
+TXN00798,CUST1092,2026-10-17T15:01:00,1445.91,Card,Mumbai,6,110,0,No configured risk indicators,Low
+TXN00028,CUST1075,2026-10-18T04:12:00,1441.28,NetBanking,Bengaluru,10,2067,0,No configured risk indicators,Low
+TXN00739,CUST1008,2026-10-16T20:36:00,1430.24,Card,Bengaluru,15,1991,0,No configured risk indicators,Low
+TXN00701,CUST1009,2026-10-03T03:42:00,1404.41,Card,Pune,18,1760,0,No configured risk indicators,Low
+TXN00206,CUST1006,2026-10-05T13:15:00,1386.09,NetBanking,Bengaluru,18,1634,0,No configured risk indicators,Low
+TXN01034,CUST1091,2026-10-02T22:32:00,1383.6,Card,Bengaluru,13,1819,0,No configured risk indicators,Low
+TXN00809,CUST1022,2026-10-13T23:37:00,1380.4,Card,Hyderabad,20,294,0,No configured risk indicators,Low
+TXN00070,CUST1136,2026-10-01T09:09:00,1360.16,Card,Mumbai,20,313,0,No configured risk indicators,Low
+TXN00698,CUST1096,2026-10-21T11:22:00,1353.37,Card,Delhi,9,769,0,No configured risk indicators,Low
+TXN01023,CUST1170,2026-10-01T02:11:00,1346.74,NetBanking,Nagpur,20,911,0,No configured risk indicators,Low
+TXN00949,CUST1230,2026-10-05T13:00:00,1342.56,Card,Delhi,12,640,0,No configured risk indicators,Low
+TXN01160,CUST1003,2026-10-15T13:16:00,1324.2,NetBanking,Nagpur,18,456,0,No configured risk indicators,Low
+TXN00204,CUST1081,2026-10-05T18:13:00,1317.65,NetBanking,Delhi,11,368,0,No configured risk indicators,Low
+TXN00715,CUST1065,2026-10-06T20:49:00,1313.31,Card,Delhi,9,722,0,No configured risk indicators,Low
+TXN00696,CUST1114,2026-10-28T07:38:00,1311.66,Card,Mumbai,16,942,0,No configured risk indicators,Low
+TXN00239,CUST1106,2026-10-04T23:04:00,1305.06,Card,Chennai,15,2276,0,No configured risk indicators,Low
+TXN00247,CUST1029,2026-10-01T03:31:00,1302.98,NetBanking,Chennai,7,2279,0,No configured risk indicators,Low
+TXN00213,CUST1137,2026-10-12T12:02:00,1300.95,Card,Nagpur,6,1867,0,No configured risk indicators,Low
+TXN00710,CUST1002,2026-10-12T12:49:00,1292.21,Card,Pune,15,1108,0,No configured risk indicators,Low
+TXN00664,CUST1152,2026-10-08T17:11:00,1290.48,NetBanking,Nagpur,20,2051,0,No configured risk indicators,Low
+TXN00904,CUST1010,2026-10-12T01:58:00,1289.52,Card,Delhi,7,2305,0,No configured risk indicators,Low
+TXN00954,CUST1156,2026-10-19T11:09:00,1276.94,NetBanking,Pune,18,1630,0,No configured risk indicators,Low
+TXN00926,CUST1248,2026-10-08T23:26:00,1274.61,NetBanking,Delhi,23,867,0,No configured risk indicators,Low
+TXN00043,CUST1004,2026-10-09T22:13:00,1263.14,NetBanking,Hyderabad,10,2118,0,No configured risk indicators,Low
+TXN00536,CUST1132,2026-10-09T15:16:00,1256.31,NetBanking,Bengaluru,18,2224,0,No configured risk indicators,Low
+TXN01102,CUST1171,2026-10-07T03:37:00,1246.99,NetBanking,Chennai,10,1324,0,No configured risk indicators,Low
+TXN00716,CUST1203,2026-10-15T00:51:00,1230.88,Card,Bengaluru,22,1417,0,No configured risk indicators,Low
+TXN00981,CUST1147,2026-10-21T15:26:00,1230.33,NetBanking,Bengaluru,11,405,0,No configured risk indicators,Low
+TXN00011,CUST1034,2026-10-14T15:04:00,1226.96,Card,Hyderabad,13,102,0,No configured risk indicators,Low
+TXN00734,CUST1216,2026-10-19T06:35:00,1225.52,NetBanking,Pune,19,1255,0,No configured risk indicators,Low
+TXN00937,CUST1146,2026-10-28T02:48:00,1222.98,Card,Delhi,12,832,0,No configured risk indicators,Low
+TXN00122,CUST1245,2026-10-09T19:41:00,1222.42,NetBanking,Chennai,8,2398,0,No configured risk indicators,Low
+TXN01077,CUST1097,2026-10-18T18:02:00,1217.92,Card,Chennai,19,1170,0,No configured risk indicators,Low
+TXN00480,CUST1168,2026-10-17T12:21:00,1216.47,NetBanking,Chennai,19,989,0,No configured risk indicators,Low
+TXN00547,CUST1180,2026-10-01T08:29:00,1211.11,NetBanking,Chennai,12,1352,0,No configured risk indicators,Low
+TXN00187,CUST1227,2026-10-30T18:40:00,1208.16,Card,Delhi,6,2286,0,No configured risk indicators,Low
+TXN00119,CUST1249,2026-10-23T18:36:00,1207.62,Card,Mumbai,12,474,0,No configured risk indicators,Low
+TXN01185,CUST1131,2026-10-29T11:07:00,1203.08,Card,Chennai,13,1260,0,No configured risk indicators,Low
+TXN00485,CUST1034,2026-10-17T01:12:00,1196.74,NetBanking,Nagpur,6,776,0,No configured risk indicators,Low
+TXN00623,CUST1098,2026-10-28T21:56:00,1185.29,NetBanking,Nagpur,5,856,0,No configured risk indicators,Low
+TXN00284,CUST1184,2026-10-06T10:32:00,1177.42,Card,Mumbai,22,2086,0,No configured risk indicators,Low
+TXN00681,CUST1007,2026-10-12T09:29:00,1167.58,Card,Pune,10,1398,0,No configured risk indicators,Low
+TXN01130,CUST1023,2026-10-28T07:19:00,1160.91,NetBanking,Pune,8,1787,0,No configured risk indicators,Low
+TXN00771,CUST1154,2026-10-26T08:04:00,1155.4,Card,Nagpur,14,112,0,No configured risk indicators,Low
+TXN00025,CUST1005,2026-10-13T23:06:00,1151.9,Card,Bengaluru,10,743,0,No configured risk indicators,Low
+TXN00352,CUST1236,2026-10-27T15:30:00,1137.7,Card,Pune,5,2356,0,No configured risk indicators,Low
+TXN00600,CUST1093,2026-10-14T16:08:00,1135.1,Card,Pune,7,1738,0,No configured risk indicators,Low
+TXN00783,CUST1050,2026-10-09T04:26:00,1130.81,Card,Nagpur,19,1349,0,No configured risk indicators,Low
+TXN00214,CUST1154,2026-10-09T01:34:00,1129.38,Card,Hyderabad,17,133,0,No configured risk indicators,Low
+TXN00844,CUST1159,2026-10-08T08:05:00,1118.32,NetBanking,Delhi,14,797,0,No configured risk indicators,Low
+TXN00918,CUST1012,2026-10-21T09:52:00,1114.69,NetBanking,Nagpur,20,1213,0,No configured risk indicators,Low
+TXN00163,CUST1154,2026-10-17T03:37:00,1109.64,NetBanking,Mumbai,10,1859,0,No configured risk indicators,Low
+TXN00419,CUST1122,2026-10-28T13:37:00,1106.29,NetBanking,Bengaluru,18,2217,0,No configured risk indicators,Low
+TXN01171,CUST1108,2026-10-07T03:33:00,1106.04,Card,Pune,21,900,0,No configured risk indicators,Low
+TXN00724,CUST1185,2026-10-22T19:31:00,1086.15,NetBanking,Mumbai,7,993,0,No configured risk indicators,Low
+TXN00548,CUST1059,2026-10-07T21:07:00,1078.94,Card,Mumbai,21,1531,0,No configured risk indicators,Low
+TXN00371,CUST1065,2026-10-13T09:58:00,1078.9,Card,Delhi,11,938,0,No configured risk indicators,Low
+TXN01058,CUST1199,2026-10-05T13:54:00,1071.69,Card,Chennai,9,2091,0,No configured risk indicators,Low
+TXN01126,CUST1246,2026-10-08T03:47:00,1064.57,Card,Bengaluru,12,1769,0,No configured risk indicators,Low
+TXN00040,CUST1078,2026-10-30T14:59:00,1058.12,Card,Chennai,22,759,0,No configured risk indicators,Low
+TXN00530,CUST1207,2026-10-09T14:59:00,1057.34,NetBanking,Delhi,15,1793,0,No configured risk indicators,Low
+TXN00620,CUST1085,2026-10-22T20:41:00,1048.48,Card,Delhi,19,2330,0,No configured risk indicators,Low
+TXN00912,CUST1084,2026-10-30T00:25:00,1048.25,Card,Bengaluru,12,437,0,No configured risk indicators,Low
+TXN00935,CUST1119,2026-10-13T01:39:00,1033.38,NetBanking,Mumbai,13,240,0,No configured risk indicators,Low
+TXN00228,CUST1200,2026-10-29T21:59:00,1014.47,Card,Hyderabad,8,1084,0,No configured risk indicators,Low
+TXN00805,CUST1030,2026-10-08T02:17:00,1012.39,NetBanking,Hyderabad,18,2436,0,No configured risk indicators,Low
+TXN00955,CUST1161,2026-10-27T07:02:00,1004.84,NetBanking,Bengaluru,15,1044,0,No configured risk indicators,Low
+TXN01045,CUST1178,2026-10-07T16:18:00,1003.14,NetBanking,Bengaluru,13,1177,0,No configured risk indicators,Low
+TXN00190,CUST1214,2026-10-17T21:08:00,990.3,NetBanking,Delhi,14,2340,0,No configured risk indicators,Low
+TXN00320,CUST1111,2026-10-19T22:05:00,983.31,Card,Delhi,7,731,0,No configured risk indicators,Low
+TXN00518,CUST1082,2026-10-05T19:18:00,981.47,Card,Hyderabad,16,1338,0,No configured risk indicators,Low
+TXN00880,CUST1067,2026-10-08T18:40:00,980.83,Card,Hyderabad,17,1896,0,No configured risk indicators,Low
+TXN00584,CUST1238,2026-10-04T06:18:00,976.23,Card,Delhi,16,1213,0,No configured risk indicators,Low
+TXN00786,CUST1123,2026-10-12T12:13:00,957.9,NetBanking,Hyderabad,14,945,0,No configured risk indicators,Low
+TXN01054,CUST1133,2026-10-15T10:31:00,954.06,NetBanking,Chennai,14,1945,0,No configured risk indicators,Low
+TXN00543,CUST1024,2026-10-01T19:01:00,944.74,NetBanking,Delhi,18,1224,0,No configured risk indicators,Low
+TXN00962,CUST1156,2026-10-12T21:51:00,936.94,Card,Mumbai,7,111,0,No configured risk indicators,Low
+TXN01136,CUST1160,2026-10-07T08:07:00,931.73,Card,Bengaluru,21,2433,0,No configured risk indicators,Low
+TXN00641,CUST1220,2026-10-08T09:33:00,931.63,NetBanking,Chennai,11,1859,0,No configured risk indicators,Low
+TXN00672,CUST1092,2026-10-30T19:10:00,925.26,Card,Delhi,12,1658,0,No configured risk indicators,Low
+TXN01190,CUST1123,2026-10-19T09:46:00,909.85,Card,Mumbai,21,1148,0,No configured risk indicators,Low
+TXN00356,CUST1200,2026-10-30T13:00:00,908.17,NetBanking,Nagpur,8,1304,0,No configured risk indicators,Low
+TXN00044,CUST1233,2026-10-27T21:35:00,908.02,Card,Hyderabad,19,589,0,No configured risk indicators,Low
+TXN00558,CUST1142,2026-10-27T03:14:00,893.67,Card,Pune,21,116,0,No configured risk indicators,Low
+TXN00992,CUST1203,2026-10-01T13:57:00,891.42,NetBanking,Nagpur,15,493,0,No configured risk indicators,Low
+TXN00391,CUST1016,2026-10-10T03:23:00,875.82,NetBanking,Pune,8,40,0,No configured risk indicators,Low
+TXN00808,CUST1159,2026-10-10T19:56:00,874.71,Card,Nagpur,17,593,0,No configured risk indicators,Low
+TXN00847,CUST1217,2026-10-29T12:34:00,872.68,Card,Hyderabad,12,993,0,No configured risk indicators,Low
+TXN00737,CUST1156,2026-10-05T09:15:00,852.25,Card,Chennai,12,1955,0,No configured risk indicators,Low
+TXN00296,CUST1040,2026-10-07T12:56:00,825.37,Card,Mumbai,9,413,0,No configured risk indicators,Low
+TXN01186,CUST1104,2026-10-11T07:20:00,819.62,NetBanking,Nagpur,9,2397,0,No configured risk indicators,Low
+TXN00952,CUST1094,2026-10-03T03:38:00,808.79,Card,Pune,8,2173,0,No configured risk indicators,Low
+TXN00521,CUST1148,2026-10-29T07:26:00,808.3,Card,Bengaluru,11,1290,0,No configured risk indicators,Low
+TXN00967,CUST1089,2026-10-26T03:26:00,789.53,Card,Chennai,15,70,0,No configured risk indicators,Low
+TXN00569,CUST1097,2026-10-18T22:40:00,779.21,Card,Pune,11,1902,0,No configured risk indicators,Low
+TXN00984,CUST1034,2026-10-07T03:26:00,776.12,NetBanking,Mumbai,10,711,0,No configured risk indicators,Low
+TXN01134,CUST1236,2026-10-27T22:41:00,774.15,Card,Mumbai,11,1602,0,No configured risk indicators,Low
+TXN00560,CUST1016,2026-10-23T01:31:00,764.49,Card,Delhi,23,2069,0,No configured risk indicators,Low
+TXN00085,CUST1102,2026-10-27T01:02:00,764.26,Card,Pune,18,2428,0,No configured risk indicators,Low
+TXN00875,CUST1177,2026-10-11T13:12:00,761.14,NetBanking,Delhi,21,364,0,No configured risk indicators,Low
+TXN01150,CUST1066,2026-10-21T16:28:00,755.97,Card,Mumbai,18,718,0,No configured risk indicators,Low
+TXN01107,CUST1095,2026-10-28T23:46:00,747.34,Card,Mumbai,12,869,0,No configured risk indicators,Low
+TXN01037,CUST1043,2026-10-16T09:06:00,744.27,Card,Nagpur,7,295,0,No configured risk indicators,Low
+TXN00334,CUST1009,2026-10-10T22:42:00,743.6,NetBanking,Chennai,23,2266,0,No configured risk indicators,Low
+TXN00595,CUST1073,2026-10-06T19:37:00,743.29,NetBanking,Hyderabad,8,2018,0,No configured risk indicators,Low
+TXN00474,CUST1184,2026-10-18T19:39:00,729.42,NetBanking,Hyderabad,5,2016,0,No configured risk indicators,Low
+TXN00837,CUST1213,2026-10-12T20:44:00,729.08,Card,Delhi,17,1988,0,No configured risk indicators,Low
+TXN00779,CUST1036,2026-10-02T02:53:00,727.0,Card,Hyderabad,9,1103,0,No configured risk indicators,Low
+TXN00557,CUST1235,2026-10-08T06:05:00,725.47,Card,Mumbai,6,1835,0,No configured risk indicators,Low
+TXN00450,CUST1128,2026-10-22T09:43:00,722.81,Card,Delhi,21,1581,0,No configured risk indicators,Low
+TXN00902,CUST1014,2026-10-18T00:39:00,720.41,NetBanking,Nagpur,10,309,0,No configured risk indicators,Low
+TXN00983,CUST1110,2026-10-07T16:04:00,708.01,Card,Delhi,10,1587,0,No configured risk indicators,Low
+TXN00936,CUST1088,2026-10-14T02:38:00,704.2,NetBanking,Hyderabad,6,1881,0,No configured risk indicators,Low
+TXN00631,CUST1221,2026-10-05T05:51:00,700.05,Card,Chennai,8,1355,0,No configured risk indicators,Low
+TXN00851,CUST1161,2026-10-21T02:06:00,699.13,Card,Delhi,17,120,0,No configured risk indicators,Low
+TXN00789,CUST1094,2026-10-18T15:16:00,697.21,Card,Delhi,5,643,0,No configured risk indicators,Low
+TXN00192,CUST1058,2026-10-24T15:22:00,692.24,Card,Chennai,22,2445,0,No configured risk indicators,Low
+TXN01170,CUST1073,2026-10-22T16:17:00,691.14,Card,Nagpur,16,1259,0,No configured risk indicators,Low
+TXN00782,CUST1125,2026-10-10T09:37:00,690.48,NetBanking,Delhi,7,1184,0,No configured risk indicators,Low
+TXN00004,CUST1175,2026-10-11T23:46:00,690.22,Card,Chennai,13,2070,0,No configured risk indicators,Low
+TXN00469,CUST1049,2026-10-26T14:39:00,687.18,NetBanking,Delhi,14,950,0,No configured risk indicators,Low
+TXN00158,CUST1085,2026-10-09T14:54:00,675.99,NetBanking,Delhi,22,256,0,No configured risk indicators,Low
+TXN00019,CUST1066,2026-10-09T04:03:00,666.79,Card,Chennai,8,1148,0,No configured risk indicators,Low
+TXN00215,CUST1140,2026-10-24T09:25:00,666.43,NetBanking,Nagpur,6,877,0,No configured risk indicators,Low
+TXN00845,CUST1012,2026-10-10T01:29:00,663.5,Card,Nagpur,9,474,0,No configured risk indicators,Low
+TXN00442,CUST1143,2026-10-04T10:27:00,654.27,NetBanking,Nagpur,8,964,0,No configured risk indicators,Low
+TXN00321,CUST1168,2026-10-19T21:23:00,647.01,Card,Mumbai,22,1547,0,No configured risk indicators,Low
+TXN00997,CUST1103,2026-10-16T13:11:00,628.39,NetBanking,Pune,5,94,0,No configured risk indicators,Low
+TXN01109,CUST1036,2026-10-21T05:41:00,616.77,Card,Delhi,21,126,0,No configured risk indicators,Low
+TXN00350,CUST1180,2026-10-16T19:18:00,611.33,NetBanking,Pune,17,1827,0,No configured risk indicators,Low
+TXN00250,CUST1135,2026-10-26T17:32:00,593.31,NetBanking,Delhi,6,244,0,No configured risk indicators,Low
+TXN01195,CUST1151,2026-10-05T17:37:00,585.76,Card,Delhi,10,1463,0,No configured risk indicators,Low
+TXN01151,CUST1127,2026-10-29T13:16:00,583.65,Card,Hyderabad,17,2023,0,No configured risk indicators,Low
+TXN00795,CUST1011,2026-10-23T15:10:00,582.24,Card,Delhi,16,777,0,No configured risk indicators,Low
+TXN01144,CUST1155,2026-10-17T08:41:00,575.79,Card,Mumbai,10,2196,0,No configured risk indicators,Low
+TXN01124,CUST1008,2026-10-22T23:48:00,565.68,NetBanking,Mumbai,17,1735,0,No configured risk indicators,Low
+TXN00240,CUST1176,2026-10-10T10:01:00,565.66,NetBanking,Chennai,10,1988,0,No configured risk indicators,Low
+TXN00351,CUST1092,2026-10-12T16:29:00,559.39,Card,Chennai,22,68,0,No configured risk indicators,Low
+TXN01105,CUST1124,2026-10-16T06:11:00,557.05,Card,Chennai,23,1060,0,No configured risk indicators,Low
+TXN01011,CUST1041,2026-10-09T21:36:00,549.5,NetBanking,Hyderabad,5,1455,0,No configured risk indicators,Low
+TXN00278,CUST1126,2026-10-25T12:50:00,522.58,NetBanking,Hyderabad,20,1537,0,No configured risk indicators,Low
+TXN00490,CUST1226,2026-10-27T23:02:00,517.21,NetBanking,Mumbai,17,211,0,No configured risk indicators,Low
+TXN00076,CUST1167,2026-10-25T19:55:00,509.37,NetBanking,Chennai,14,603,0,No configured risk indicators,Low
+TXN00874,CUST1178,2026-10-16T11:07:00,505.03,NetBanking,Chennai,11,1270,0,No configured risk indicators,Low
+TXN00634,CUST1130,2026-10-23T01:02:00,503.62,Card,Hyderabad,19,2315,0,No configured risk indicators,Low
+TXN00587,CUST1121,2026-10-12T11:20:00,500.08,Card,Pune,17,602,0,No configured risk indicators,Low
+TXN00544,CUST1210,2026-10-07T16:23:00,498.09,Card,Chennai,18,1243,0,No configured risk indicators,Low
+TXN00644,CUST1143,2026-10-22T12:43:00,497.09,NetBanking,Hyderabad,15,1541,0,No configured risk indicators,Low
+TXN00291,CUST1245,2026-10-21T05:32:00,459.91,Card,Pune,12,344,0,No configured risk indicators,Low
+TXN00489,CUST1008,2026-10-02T02:06:00,429.67,Card,Delhi,18,2475,0,No configured risk indicators,Low
+TXN00307,CUST1123,2026-10-15T00:37:00,423.86,Card,Pune,22,1517,0,No configured risk indicators,Low
+TXN00621,CUST1187,2026-10-10T11:21:00,418.17,Card,Hyderabad,21,505,0,No configured risk indicators,Low
+TXN00433,CUST1239,2026-10-06T21:45:00,411.75,Card,Bengaluru,11,484,0,No configured risk indicators,Low
+TXN00735,CUST1237,2026-10-19T11:07:00,408.2,Card,Bengaluru,23,1757,0,No configured risk indicators,Low
+TXN00309,CUST1221,2026-10-17T23:27:00,397.31,Card,Chennai,12,1839,0,No configured risk indicators,Low
+TXN00065,CUST1104,2026-10-07T10:56:00,394.08,Card,Mumbai,17,1824,0,No configured risk indicators,Low
+TXN00287,CUST1192,2026-10-23T20:58:00,392.14,NetBanking,Delhi,16,1524,0,No configured risk indicators,Low
+TXN00994,CUST1148,2026-10-11T01:18:00,386.82,Card,Nagpur,16,1882,0,No configured risk indicators,Low
+TXN00626,CUST1229,2026-10-19T21:24:00,385.85,NetBanking,Delhi,16,2428,0,No configured risk indicators,Low
+TXN00306,CUST1236,2026-10-01T18:11:00,382.4,Card,Delhi,18,1519,0,No configured risk indicators,Low
+TXN01158,CUST1066,2026-10-18T22:58:00,380.79,NetBanking,Delhi,11,1470,0,No configured risk indicators,Low
+TXN00110,CUST1218,2026-10-31T13:14:00,369.97,NetBanking,Bengaluru,17,111,0,No configured risk indicators,Low
+TXN00186,CUST1217,2026-10-09T12:42:00,368.86,Card,Nagpur,18,624,0,No configured risk indicators,Low
+TXN00464,CUST1077,2026-10-24T23:02:00,360.97,NetBanking,Bengaluru,15,2217,0,No configured risk indicators,Low
+TXN00791,CUST1207,2026-10-10T14:18:00,332.26,Card,Pune,17,2013,0,No configured risk indicators,Low
+TXN00146,CUST1211,2026-10-28T02:10:00,327.66,Card,Delhi,15,55,0,No configured risk indicators,Low
+TXN00906,CUST1026,2026-10-11T20:23:00,317.42,Card,Pune,12,566,0,No configured risk indicators,Low
+TXN00660,CUST1020,2026-10-05T17:54:00,308.75,Card,Bengaluru,21,1439,0,No configured risk indicators,Low
+TXN00400,CUST1061,2026-10-11T16:57:00,307.76,Card,Pune,9,662,0,No configured risk indicators,Low
+TXN00653,CUST1169,2026-10-08T18:00:00,296.44,NetBanking,Chennai,21,622,0,No configured risk indicators,Low
+TXN00970,CUST1183,2026-10-17T15:49:00,287.61,NetBanking,Hyderabad,17,683,0,No configured risk indicators,Low
+TXN00953,CUST1050,2026-10-13T20:37:00,276.01,Card,Nagpur,18,1910,0,No configured risk indicators,Low
+TXN00038,CUST1104,2026-10-07T04:37:00,258.49,Card,Bengaluru,16,1270,0,No configured risk indicators,Low
+TXN01123,CUST1130,2026-10-11T11:57:00,256.09,Card,Delhi,19,2111,0,No configured risk indicators,Low
+TXN01121,CUST1232,2026-10-30T09:28:00,250.6,Card,Chennai,8,2254,0,No configured risk indicators,Low
+TXN00207,CUST1204,2026-10-14T03:00:00,247.72,Card,Nagpur,6,1142,0,No configured risk indicators,Low
+TXN00188,CUST1076,2026-10-20T09:21:00,245.39,Card,Nagpur,13,2382,0,No configured risk indicators,Low
+TXN00598,CUST1141,2026-10-22T00:23:00,244.95,Card,Bengaluru,7,897,0,No configured risk indicators,Low
+TXN01004,CUST1026,2026-10-23T01:17:00,220.78,Card,Chennai,10,291,0,No configured risk indicators,Low
+TXN00223,CUST1188,2026-10-22T10:50:00,215.98,NetBanking,Mumbai,9,2406,0,No configured risk indicators,Low
+TXN00702,CUST1089,2026-10-03T06:20:00,200.18,Card,Bengaluru,6,1626,0,No configured risk indicators,Low
+TXN00750,CUST1057,2026-10-06T21:24:00,185.54,Card,Mumbai,19,1539,0,No configured risk indicators,Low
+TXN00538,CUST1103,2026-10-05T09:07:00,169.95,Card,Pune,9,1190,0,No configured risk indicators,Low
+TXN01197,CUST1112,2026-10-01T15:54:00,127.64,Card,Nagpur,9,907,0,No configured risk indicators,Low

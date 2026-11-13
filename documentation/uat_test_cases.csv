@@ -1,0 +1,11 @@
+test_case_id,scenario,test_data_or_precondition,test_steps,expected_result,execution_status
+TC-01,Valid CSV ingestion,CSV contains all mandatory columns,Run analysis script,All rows processed; output files generated,Pending execution
+TC-02,Missing mandatory field,Remove customer_id column,Run analysis script,Clear validation error identifies missing column,Pending execution
+TC-03,High amount rule,Set amount_inr to 50000,Run risk scoring,40 points added; high-amount reason appears,Pending execution
+TC-04,Overnight rule boundary,Set transaction_hour to 4,Run risk scoring,25 points added,Pending execution
+TC-05,Daytime boundary,Set transaction_hour to 5,Run risk scoring,No overnight points added,Pending execution
+TC-06,New customer rule,Set customer_tenure_days to 29,Run risk scoring,20 points added,Pending execution
+TC-07,Priority band High,Create score >=60,Run risk scoring,Priority = High,Pending execution
+TC-08,Priority band Medium,Create score 30–59,Run risk scoring,Priority = Medium,Pending execution
+TC-09,Priority band Low,Create score <30,Run risk scoring,Priority = Low,Pending execution
+TC-10,Human review wording,Review generated output and report labels,Inspect outputs,No output labels a risk flag as confirmed fraud,Pending execution
